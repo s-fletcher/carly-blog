@@ -1,11 +1,12 @@
 import React from 'react';
+import Navbar from './components/Navbar';
 
 /**
  * App
  */
 const App: React.FC = () => (
-  <div>
-    <p>Hello World</p>
+  <div id="app">
+    <Navbar />
   </div>
 );
 export default App;
