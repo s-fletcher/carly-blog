@@ -3,9 +3,9 @@
 #navbar {  
   align-items: center;
   background: #fcfcfc;
-  box-shadow: 0 0 5px rgba($color: #000, $alpha: 0.15);
+  box-shadow: 0 0 4px rgba($color: #000, $alpha: 0.1);
   display: flex;
-  height: 50px;
+  height: 70px;
   justify-content: center;
   width: 100vw;
 
@@ -20,9 +20,9 @@
   
   .cursive {
     color: $pink;
-    font-size: 2em;
+    font-size: 2.8em;
   }
-  
+
   #nav-items {
     display: flex;
     height: 100%;
@@ -33,7 +33,125 @@
       align-items: center;
       display: flex;
       height: 100%;
+      justify-content: center;
       padding: 0 10px;
+      position: relative;
+      transition: color 150ms;
+
+      .underline {
+        background: $pink;
+        bottom: 0;
+        height: 0;
+        position: absolute;
+        transition: height 150ms;
+        width: calc(100% - 20px);
+      }
+
+      &:hover {
+        color: $pink;
+      }
+
+      &.active {
+        color: $pink;
+
+        .underline {
+          height: 2px;
+        }
+      }
+    }
+  }
+
+  #hamburger {
+    background: none;
+    border: 0;
+    border-radius: 4px;
+    cursor: pointer;
+    outline: none;
+    padding: 5px 8px;
+    position: fixed;
+    right: 30px;
+    transition: background 250ms;
+    z-index: 10;
+
+    &:hover {
+      background: #eee;
+
+      &.open {
+        background: #ff9398;
+      }
+    }
+
+    .line {
+      background: $black;
+      border-radius: 10px;
+      height: 3px;
+      margin: 7px 0;
+      transition: all 200ms;
+      width: 30px;
+
+      &.open {
+        background: white;
+
+        &:nth-child(2) {
+          opacity: 0;
+          transform: translateX(-15px);
+          width: 0;
+        } 
+
+        &:nth-child(1) {
+          transform: translateY(10px) rotate(-45deg);
+        }
+    
+        &:nth-child(3) {
+          transform: translateY(-10px) rotate(-135deg);
+        } 
+      }
+    }
+  }
+
+  #hamburger-menu {
+    background: $pink;
+    clip: rect(0, $hamburger-menu-width, 100vh, $hamburger-menu-width);
+    height: 100vh;
+    position: fixed;
+    right: 0;
+    top: 0;
+    transition: clip 200ms;
+    width: $hamburger-menu-width;
+
+    &.open {
+      clip: rect(0, $hamburger-menu-width, 100vh, 0);
+    }
+
+    &.closed {
+      opacity: 0;
+    }
+
+    #nav-items {
+      align-items: flex-end;
+      color: white;
+      flex-flow: column;
+      height: 200px;
+      margin-top: 100px;
+      padding: 0 30px;
+      position: relative;
+
+      a {
+        width: 100%;
+        
+        li {
+          height: calc(200px / 4);
+          justify-content: flex-end;
+          
+          &.active {
+            color: white;
+          }
+
+          &:hover {
+            color: white;
+          }
+        }
+      }
     }
   }
 }
