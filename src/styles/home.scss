@@ -1,0 +1,60 @@
+@import './constants';
+
+#home {
+  display: flex;
+  justify-content: center;
+  
+  .container {
+    margin-top: $content-top-margin;
+    max-width: $content-max-width;
+    width: $content-width;
+    
+    .content {
+      align-items: center;
+      display: flex;
+      justify-content: space-between;
+
+      .image {
+        box-shadow: 1px 1px 12px rgba(0, 0, 0, 0.2);
+        line-height: 0;
+        padding: 5px;
+
+        img {
+          max-width: 300px;
+          width: 35vw;
+        }
+      }
+
+      .about {
+        margin-left: 50px;
+
+        h1 {
+          font-size: 3em;
+          margin-bottom: 8px;
+        }
+        
+        p {
+          color: $gray;
+        }
+      }
+    }
+
+    .socials {
+      align-items: center;
+      display: flex;
+      justify-content: center;
+      margin: $content-top-margin 0;
+
+      a {
+        fill: $pink;
+        margin: 0 8px;
+        padding: 6px 16px;
+        transition: transform 150ms;
+      }
+
+      a:hover {
+        transform: scale(1.15);
+      }
+    }
+  }
+}
