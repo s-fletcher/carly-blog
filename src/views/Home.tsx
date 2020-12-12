@@ -1,4 +1,3 @@
-import { url } from 'inspector';
 import React from 'react';
 import '../styles/home.scss';
 
@@ -14,6 +13,7 @@ const Home: React.FC = () => (
         </div>
         <div className="about">
           <h1 className="cursive">Carly Burwell</h1>
+          {/* eslint-disable-next-line max-len */}
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
         </div>
       </div>
