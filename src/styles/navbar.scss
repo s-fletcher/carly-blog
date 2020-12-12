@@ -62,19 +62,19 @@
   }
 
   #hamburger {
-    background: none;
+    background: linear-gradient(0, $pink -90%, $off-pink 200%);
     border: 0;
     border-radius: 4px;
     cursor: pointer;
     outline: none;
-    padding: 5px 8px;
+    padding: 2px 5px;
     position: fixed;
     right: 30px;
-    transition: background 250ms;
+    transition: background 150ms;
     z-index: 10;
 
-    &:hover {
-      background: $light-pink;
+    &.open {
+      background: linear-gradient(0, rgba($pink, 0) -90%, rgba($off-pink, 0) 200%);
     }
 
     .line {
