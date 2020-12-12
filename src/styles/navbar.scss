@@ -2,7 +2,7 @@
 
 #navbar {  
   align-items: center;
-  background: #fcfcfc;
+  background: linear-gradient(170deg, $pink, $off-pink, $pink);
   box-shadow: 0 0 4px rgba($color: #000, $alpha: 0.1);
   display: flex;
   height: 70px;
@@ -19,7 +19,7 @@
   }
   
   .cursive {
-    color: $pink;
+    color: #fff;
     font-size: 2.8em;
   }
 
@@ -31,6 +31,7 @@
     
     .item {
       align-items: center;
+      color: $light-pink;
       display: flex;
       height: 100%;
       justify-content: center;
@@ -39,19 +40,19 @@
       transition: color 150ms;
 
       .underline {
-        background: $pink;
-        bottom: 0;
+        background: white;
+        bottom: 5px;
         height: 0;
         position: absolute;
-        width: calc(100% - 40px);
+        width: 40px;
       }
 
       &:hover {
-        color: $pink;
+        color: white;
       }
 
       &.active {
-        color: $pink;
+        color: white;
 
         .underline {
           height: 2px;
@@ -73,15 +74,11 @@
     z-index: 10;
 
     &:hover {
-      background: #eee;
-
-      &.open {
-        background: #ff9398;
-      }
+      background: $light-pink;
     }
 
     .line {
-      background: $black;
+      background: white;
       border-radius: 10px;
       height: 3px;
       margin: 7px 0;
@@ -89,8 +86,6 @@
       width: 30px;
 
       &.open {
-        background: white;
-
         &:nth-child(2) {
           opacity: 0;
           transform: translateX(-15px);
@@ -109,7 +104,9 @@
   }
 
   #hamburger-menu {
-    background: $pink;
+    background: linear-gradient(275deg, $pink, $off-pink);
+    // background: $pink;
+    box-sizing: border-box;
     clip: rect(0, $hamburger-menu-width, 100vh, $hamburger-menu-width);
     height: 100vh;
     position: fixed;
