@@ -51,6 +51,7 @@
     "radix": "off",
     "react/button-has-type": "off",
     "import/no-extraneous-dependencies": "off",
+    "react-hooks/exhaustive-deps": "off",
     "key-spacing": [
       "error",
       {
