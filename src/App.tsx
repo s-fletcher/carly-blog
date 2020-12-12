@@ -7,6 +7,7 @@ import {
 import Navbar from './components/Navbar';
 import Blog from './views/Blog';
 import Home from './views/Home';
+import Recipes from './views/Recipes';
 
 /**
  * App
@@ -19,6 +20,9 @@ const App: React.FC = () => (
       <Switch>
         <Route path="/blog">
           <Blog />
+        </Route>
+        <Route path="/recipes">
+          <Recipes />
         </Route>
         <Route path="/">
           <Home />
