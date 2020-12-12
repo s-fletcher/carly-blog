@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import '../styles/navbar.scss';
 
+import { Link } from 'react-router-dom';
 import useWindowDimensions from '../lib/useWindowDimensions';
 
 /**
@@ -85,11 +86,12 @@ const NavItems: React.FC<NavbarProps> = ({ setOpen }) => {
       });
     }
   };
+
   return (
     <ul id="nav-items">
-      <a href="/" onClick={onClickLink}><li className="item active"><p>Home</p><div className="underline" /></li></a>
-      <a href="/" onClick={onClickLink}><li className="item"><p>Blog</p><div className="underline" /></li></a>
-      <a href="/" onClick={onClickLink}><li className="item"><p>Recipes</p><div className="underline" /></li></a>
+      <Link to="/" onClick={onClickLink}><li className="item active"><p>Home</p><div className="underline" /></li></Link>
+      <Link to="/blog" onClick={onClickLink}><li className="item"><p>Blog</p><div className="underline" /></li></Link>
+      <Link to="/" onClick={onClickLink}><li className="item"><p>Recipes</p><div className="underline" /></li></Link>
     </ul>
   );
 };
