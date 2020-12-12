@@ -105,17 +105,17 @@ const NavItems: React.FC<NavItemsProps> = ({ setOpen, location }) => {
     <ul id="nav-items">
       <Link to="/" onClick={onClickLink}>
         <li className={`item ${path === '/' ? 'active' : ''}`}>
-          <p>Home<div className="underline" /></p>
+          <span>Home<div className="underline" /></span>
         </li>
       </Link>
       <Link to="/blog" onClick={onClickLink}>
         <li className={`item ${path === '/blog' ? 'active' : ''}`}>
-          <p>Blog<div className="underline" /></p>
+          <span>Blog<div className="underline" /></span>
         </li>
       </Link>
       <Link to="/recipes" onClick={onClickLink}>
         <li className={`item ${path === '/recipes' ? 'active' : ''}`}>
-          <p>Recipes<div className="underline" /></p>
+          <span>Recipes<div className="underline" /></span>
         </li>
       </Link>
     </ul>
