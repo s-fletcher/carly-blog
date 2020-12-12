@@ -5,6 +5,7 @@ import {
   Route,
 } from 'react-router-dom';
 import Navbar from './components/Navbar';
+import Socials from './components/Socials';
 import Blog from './views/Blog';
 import Home from './views/Home';
 import Recipes from './views/Recipes';
@@ -28,6 +29,8 @@ const App: React.FC = () => (
           <Home />
         </Route>
       </Switch>
+
+      <Socials />
     </Router>
   </div>
 );

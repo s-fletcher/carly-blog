@@ -1,0 +1,19 @@
+@import './constants.scss';
+
+#socials {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  margin: $content-top-margin 0;
+
+  a {
+    fill: $pink;
+    margin: 0 8px;
+    padding: 6px 16px;
+    transition: transform 150ms;
+  }
+
+  a:hover {
+    transform: scale(1.15);
+  }
+}

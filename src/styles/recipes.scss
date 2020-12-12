@@ -1,0 +1,28 @@
+@import './constants';
+
+#recipes {
+  display: flex;
+  justify-content: center;
+  
+  .container {
+    margin-top: $content-top-margin;
+    max-width: $content-max-width;
+    width: $content-width;
+    
+    .content {
+      align-items: center;
+      display: flex;
+      justify-content: space-between;
+    }
+  }
+
+  @media only screen and (max-width: 700px) {
+    .container {
+      .content {
+        align-items: center;
+        display: block;
+        text-align: center;
+      }
+    }
+  }
+}
