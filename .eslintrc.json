@@ -50,6 +50,7 @@
     "global-require": "off",
     "radix": "off",
     "react/button-has-type": "off",
+    "import/no-extraneous-dependencies": "off",
     "key-spacing": [
       "error",
       {

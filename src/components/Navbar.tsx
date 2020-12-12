@@ -1,13 +1,13 @@
 import React, { useState, useEffect, useRef } from 'react';
 import '../styles/navbar.scss';
-
-import { Link } from 'react-router-dom';
+import { Location } from 'history';
+import { Link, RouteComponentProps, withRouter } from 'react-router-dom';
 import useWindowDimensions from '../lib/useWindowDimensions';
 
 /**
  * Navigation bar rendered on every page
  */
-const Navbar: React.FC = () => {
+const Navbar: React.FC<RouteComponentProps> = ({ location }) => {
   const { isMobile } = useWindowDimensions();
   const [open, setOpen] = useState(false) as [
     boolean,
@@ -59,19 +59,29 @@ const Navbar: React.FC = () => {
           ? (
             <>
               <Hamburger hamburger={hamburger} open={open} setOpen={setOpen} />
-              <HamburgerMenu hamburgerMenu={hamburgerMenu} setOpen={setOpen} open={open} />
+              <HamburgerMenu
+                hamburgerMenu={hamburgerMenu}
+                setOpen={setOpen}
+                open={open}
+                location={location}
+              />
             </>
           )
-          : <NavItems setOpen={setOpen} />}
+          : <NavItems setOpen={setOpen} location={location} />}
       </div>
     </div>
   );
 };
 
+type NavItemsProps = {
+  setOpen: React.Dispatch<React.SetStateAction<boolean>>;
+  location: Location;
+}
+
 /**
  * Navigation items for top navbar and hamburger menu
  */
-const NavItems: React.FC<NavbarProps> = ({ setOpen }) => {
+const NavItems: React.FC<NavItemsProps> = ({ setOpen, location }) => {
   /**
    * Closes hamburger menu, scrolls to top, and closes dropdowns
    */
@@ -87,19 +97,39 @@ const NavItems: React.FC<NavbarProps> = ({ setOpen }) => {
     }
   };
 
+  const path = location.pathname;
+
   return (
     <ul id="nav-items">
-      <Link to="/" onClick={onClickLink}><li className="item active"><p>Home</p><div className="underline" /></li></Link>
-      <Link to="/blog" onClick={onClickLink}><li className="item"><p>Blog</p><div className="underline" /></li></Link>
-      <Link to="/" onClick={onClickLink}><li className="item"><p>Recipes</p><div className="underline" /></li></Link>
+      <Link to="/" onClick={onClickLink}>
+        <li className={`item ${path === '/' ? 'active' : ''}`}>
+          <p>Home</p><div className="underline" />
+        </li>
+      </Link>
+      <Link to="/blog" onClick={onClickLink}>
+        <li className={`item ${path === '/blog' ? 'active' : ''}`}>
+          <p>Blog</p><div className="underline" />
+        </li>
+      </Link>
+      <Link to="/recipes" onClick={onClickLink}>
+        <li className={`item ${path === '/recipes' ? 'active' : ''}`}>
+          <p>Recipes</p><div className="underline" />
+        </li>
+      </Link>
     </ul>
   );
 };
 
+type HamburgerProps = {
+  open: boolean;
+  hamburger: React.RefObject<HTMLButtonElement>;
+  setOpen: React.Dispatch<React.SetStateAction<boolean>>;
+}
+
 /**
  * Hamburger button
  */
-const Hamburger: React.FC<NavbarProps> = ({ open, setOpen, hamburger }) => (
+const Hamburger: React.FC<HamburgerProps> = ({ open, setOpen, hamburger }) => (
   <button ref={hamburger} type="button" onClick={(): void => setOpen(!open)} id="hamburger" className={open ? 'open' : ''}>
     <div className={`line ${open && 'open'}`} />
     <div className={`line ${open && 'open'}`} />
@@ -107,20 +137,22 @@ const Hamburger: React.FC<NavbarProps> = ({ open, setOpen, hamburger }) => (
   </button>
 );
 
+type HamburgerMenuProps = {
+  open: boolean;
+  hamburgerMenu: React.RefObject<HTMLDivElement>;
+  setOpen: React.Dispatch<React.SetStateAction<boolean>>;
+  location: Location;
+}
+
 /**
  * Mobile menu, opened when pressing hamburger
  */
-const HamburgerMenu: React.FC<NavbarProps> = ({ open, hamburgerMenu, setOpen }) => (
+const HamburgerMenu: React.FC<HamburgerMenuProps> = (
+  { open, hamburgerMenu, setOpen, location },
+) => (
   <div id="hamburger-menu" ref={hamburgerMenu} className={open ? 'open' : 'closed'}>
-    <NavItems setOpen={setOpen} open={open} />
+    <NavItems setOpen={setOpen} location={location} />
   </div>
 );
 
-export default Navbar;
-
-type NavbarProps = {
-  setOpen: React.Dispatch<React.SetStateAction<boolean>>;
-  open?: boolean;
-  hamburger?: React.RefObject<HTMLButtonElement>;
-  hamburgerMenu?: React.RefObject<HTMLDivElement>;
-}
+export default withRouter(Navbar);
