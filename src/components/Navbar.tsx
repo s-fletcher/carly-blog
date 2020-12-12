@@ -42,6 +42,7 @@ const Navbar: React.FC<RouteComponentProps> = ({ location }) => {
     return (): void => {
       document.removeEventListener('click', hasClickedOutside, true);
     };
+    // eslint-disable-next-line
   }, [open]);
 
   // On render and user is not mobile, close mobile menu.
@@ -49,6 +50,7 @@ const Navbar: React.FC<RouteComponentProps> = ({ location }) => {
     if (!isMobile) {
       setOpen(false);
     }
+  // eslint-disable-next-line
   }, [isMobile]);
 
   return (
@@ -103,17 +105,17 @@ const NavItems: React.FC<NavItemsProps> = ({ setOpen, location }) => {
     <ul id="nav-items">
       <Link to="/" onClick={onClickLink}>
         <li className={`item ${path === '/' ? 'active' : ''}`}>
-          <p>Home</p><div className="underline" />
+          <p>Home<div className="underline" /></p>
         </li>
       </Link>
       <Link to="/blog" onClick={onClickLink}>
         <li className={`item ${path === '/blog' ? 'active' : ''}`}>
-          <p>Blog</p><div className="underline" />
+          <p>Blog<div className="underline" /></p>
         </li>
       </Link>
       <Link to="/recipes" onClick={onClickLink}>
         <li className={`item ${path === '/recipes' ? 'active' : ''}`}>
-          <p>Recipes</p><div className="underline" />
+          <p>Recipes<div className="underline" /></p>
         </li>
       </Link>
     </ul>
