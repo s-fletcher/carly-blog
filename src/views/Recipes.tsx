@@ -8,7 +8,7 @@ const Recipes: React.FC = () => (
   <div id="recipes">
     <div className="container">
       <div className="content">
-        <p>Recipes</p>
+        <p>It's quiet here...</p>
       </div>
     </div>
   </div>

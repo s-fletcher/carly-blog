@@ -16,4 +16,8 @@
   a:hover {
     transform: scale(1.15);
   }
+  
+  @media only screen and (max-width: 700px) {
+    margin: $content-mobile-top-margin 0;
+  }
 }
