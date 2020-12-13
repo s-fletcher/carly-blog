@@ -13,9 +13,7 @@ export type BlogPreviewProps = {
 const BlogPreview = ({ title, image, preview }: BlogPreviewProps): JSX.Element => (
   <div id="blog-preview">
     <div className="image-border">
-      <div className="image-container" style={{ backgroundImage: `url(${image})` }}>
-        {/* <img src={image} alt={title} /> */}
-      </div>
+      <div className="image-container" style={{ backgroundImage: `url(${image})` }} />
     </div>
     <h2>{title}</h2>
     <p>{preview}</p>
