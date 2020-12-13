@@ -55,3 +55,9 @@ a {
 .cursive {
   font-family: 'Dancing Script', cursive;
 }
+
+.image-border {
+  box-shadow: 1px 1px 12px rgba(0, 0, 0, 0.2);
+  line-height: 0;
+  padding: 5px;
+}

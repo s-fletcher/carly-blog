@@ -8,7 +8,7 @@ const Home: React.FC = () => (
   <div id="home">
     <div className="container">
       <div className="content">
-        <div className="image">
+        <div className="image-border">
           <img alt="carly" src={require('../assets/carly.png')} />
         </div>
         <div className="about">
