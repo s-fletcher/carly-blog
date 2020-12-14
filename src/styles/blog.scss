@@ -12,11 +12,11 @@
     margin-top: $content-top-margin;
     max-width: $content-max-width;
     width: $content-width;
-    
-    .content {
-      align-items: center;
-      display: flex;
-      justify-content: space-between;
+
+    .blog-preview:first-child {
+      .image-border {
+        background: $pink;
+      }
     }
   }
 

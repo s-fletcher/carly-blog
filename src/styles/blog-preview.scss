@@ -1,6 +1,6 @@
 @import './constants.scss';
 
-#blog-preview {
+.blog-preview {
   .image-border {
     .no-overflow {
       overflow: hidden;
@@ -31,7 +31,7 @@
   }  
 }
 
-#blog-preview:hover {
+.blog-preview:hover {
   .image-border {
     .no-overflow {
       .image-container {
