@@ -3,7 +3,7 @@ import '../styles/blog-post.scss';
 import marked from 'marked';
 import { withRouter } from 'react-router-dom';
 import { Location } from 'history';
-import { paramCase, sentenceCase } from 'change-case';
+import { paramCase } from 'change-case';
 import blogPosts from '../blog-posts/blog-posts';
 
 type BlogPostProps = {
