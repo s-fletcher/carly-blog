@@ -1,29 +1,44 @@
 @import './constants';
 
 #blog {
+  align-items: center;
   display: flex;
+  flex-flow: column;
   justify-content: center;
   
+  .featured {
+    display: flex;
+    justify-content: center;
+    margin-top: $content-top-margin;
+    max-width: $content-max-width;
+    width: $content-width;
+
+    .blog-preview {
+      max-width: 500px;
+
+      .image-container {
+        min-height: 300px;
+      }
+    }
+  }
+
   .container {
     display: grid;
     grid-column-gap: 30px;
     grid-row-gap: 30px;
     grid-template-columns: auto auto;
-    margin-top: $content-top-margin;
+    margin-top: $content-mobile-top-margin;
     max-width: $content-max-width;
     width: $content-width;
-
-    .blog-preview:first-child {
-      .image-border {
-        background: $pink;
-      }
-    }
   }
 
   @media only screen and (max-width: 570px) {
+    .featured {
+      margin-top: $content-mobile-top-margin;
+    }
+
     .container {
       grid-template-columns: auto;
-      margin-top: $content-mobile-top-margin;
 
       .content {
         align-items: center;

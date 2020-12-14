@@ -28,8 +28,10 @@ const Blog: React.FC = () => {
 
   return (
     <div id="blog">
+      <div className="featured">
+        {welcomePost ? <BlogPreview key="featured" {...welcomePost} /> : ''}
+      </div>
       <div className="container">
-        {welcomePost ? <BlogPreview key="Welcome to my blog!" {...welcomePost} /> : ''}
         {postData.reverse().map((post) => <BlogPreview key={post.title} {...post} />)}
       </div>
     </div>
