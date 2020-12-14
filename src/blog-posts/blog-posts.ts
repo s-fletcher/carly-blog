@@ -13,7 +13,7 @@ const blogPosts: BlogPostProps[] = [
   {
     title:      'Welcome to my Blog!',
     date:       'December 13, 2020',
-    image:      require('./images/welcome.png'),
+    image:      require('./images/welcomeheader.png'),
     contentUrl: require('./welcome.md'),
     preview:    'Learn about my life, my passions, and my goals. I am so happy you are here, feel free to stay a while!',
   },
