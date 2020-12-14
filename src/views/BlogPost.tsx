@@ -60,7 +60,7 @@ const BlogPost = ({ location }: Props): JSX.Element => {
       <div id="blog-post">
         <div className="container">
           <p className="date">{post?.date}</p>
-          <h1>{post?.title}</h1>
+          <h1 className="title">{post?.title}</h1>
           <div
             className="image-container"
             style={{
