@@ -1,19 +1,13 @@
 import { paramCase } from 'change-case';
 import React from 'react';
 import { Link } from 'react-router-dom';
+import { BlogPostProps } from '../blog-posts/blog-posts';
 import '../styles/blog-preview.scss';
-
-export type BlogPreviewProps = {
-    title: string;
-    image: string;
-    content: string;
-    preview: string;
-  }
 
 /**
  * Blog preview shown in the blog gallery
  */
-const BlogPreview = ({ title, image, preview }: BlogPreviewProps): JSX.Element => (
+const BlogPreview = ({ title, image, preview }: BlogPostProps): JSX.Element => (
   <Link to={`/${paramCase(title)}`}>
     <div id="blog-preview">
       <div className="image-border">
