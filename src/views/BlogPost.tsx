@@ -54,13 +54,13 @@ const BlogPost = ({ location }: Props): JSX.Element => {
   return (
     <div id="blog-post">
       <div className="container">
-        <p>{post?.date}</p>
+        <p className="date">{post?.date}</p>
         <h1>{post?.title}</h1>
         {/* <div className="image-border"> */}
         <div className="image-container" style={{ backgroundImage: `url(${post?.image})` }} />
         {/* </div> */}
         {/* eslint-disable-next-line react/no-danger */}
-        <div dangerouslySetInnerHTML={{ __html: post ? post.content : '' }} />
+        <div className="blog-content" dangerouslySetInnerHTML={{ __html: post ? post.content : '' }} />
       </div>
     </div>
   );

@@ -8,12 +8,44 @@
     margin-top: $content-top-margin;
     max-width: $content-max-width;
     width: $content-width;
+
+    .date {
+      color: $gray;
+      margin-bottom: 10px;
+    }
+
+    h1 {
+      color: $pink;
+    }
     
     .image-container {
-      background-position: center;
+      background-position: center 15%;
       background-size: cover;
+      border-radius: 10px;
       height: 400px;
+      margin: 40px 0;
       width: 100%;
+    }
+
+    .blog-content {
+      h1,
+      h2,
+      h3,
+      h4,
+      h5 {
+        color: $black;
+      }
+
+      p {
+        color: $gray;
+        line-height: 25px;
+        margin: 20px 0;
+      }
+
+      img {
+        margin: 20px 0;
+        width: 100%;
+      }
     }
   }
 
