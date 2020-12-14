@@ -5,6 +5,7 @@ import { withRouter } from 'react-router-dom';
 import { Location } from 'history';
 import { paramCase } from 'change-case';
 import blogPosts from '../blog-posts/blog-posts';
+import jumpToTop from '../lib/jumpToTop';
 
 type BlogPostProps = {
     title: string;
@@ -24,6 +25,8 @@ const BlogPost = ({ location }: Props): JSX.Element => {
   const [post, setPost] = useState<BlogPostProps>();
 
   useEffect(() => {
+    jumpToTop();
+
     /**
      * Find and retrieve post data from blog list depending on url
      */
