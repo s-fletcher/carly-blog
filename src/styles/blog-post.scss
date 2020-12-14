@@ -5,6 +5,9 @@
   justify-content: center;
   
   .container {
+    align-items: center;
+    display: flex;
+    flex-flow: column;
     margin-top: $content-top-margin;
     max-width: $content-max-width;
     width: $content-width;
@@ -28,6 +31,8 @@
     }
 
     .blog-content {
+      max-width: 750px;
+
       h1,
       h2,
       h3,
