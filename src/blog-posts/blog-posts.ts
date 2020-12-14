@@ -64,7 +64,7 @@ const blogPosts: BlogPostProps[] = [
     date:            'December 16, 2020',
     imageUrl:        './images/example-image.png',
     contentUrl:      require('./example-blog-post.md'),
-    preview:         'lorem espion',
+    preview:         'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ',
     previewImagePos: 'center 10%',
     headerImagePos:  'center 10%',
   },

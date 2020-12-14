@@ -17,8 +17,6 @@ const Blog: React.FC = () => {
   }, []);
 
   useEffect(() => {
-    console.log(postData.length);
-
     if (blogPosts[postData.length + 1]) {
       if (!welcomePost) {
         setWelcomePost(blogPosts[0]);
