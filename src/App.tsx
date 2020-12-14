@@ -7,6 +7,7 @@ import {
 import Navbar from './components/Navbar';
 import Socials from './components/Socials';
 import Blog from './views/Blog';
+import BlogPost from './views/BlogPost';
 import Home from './views/Home';
 import Recipes from './views/Recipes';
 
@@ -25,7 +26,10 @@ const App: React.FC = () => (
         <Route path="/recipes">
           <Recipes />
         </Route>
-        <Route path="/">
+        <Route exact path="/:blogPost">
+          <BlogPost />
+        </Route>
+        <Route exact path="/">
           <Home />
         </Route>
       </Switch>

@@ -4,6 +4,7 @@ import '../styles/blog-preview.scss';
 export type BlogPreviewProps = {
     title: string;
     image: string;
+    content: string;
     preview: string;
   }
 

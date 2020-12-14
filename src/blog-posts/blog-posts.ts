@@ -1,4 +1,4 @@
-export type BlogPost = {
+export type BlogPostProps = {
     title: string;
     date: string;
     image: string;
@@ -8,7 +8,7 @@ export type BlogPost = {
 /**
  * These are the individual blog posts.
  */
-const blogPosts: BlogPost[] = [
+const blogPosts: BlogPostProps[] = [
   {
     title:      'This is an Example Blog Post',
     date:       'December 12, 2020',

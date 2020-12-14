@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import '../styles/blog.scss';
 // import marked from 'marked';
-import blogPosts, { BlogPost } from '../blog-posts/blog-posts';
+import blogPosts, { BlogPostProps } from '../blog-posts/blog-posts';
 import BlogPreview, { BlogPreviewProps } from '../components/BlogPreview';
 
 /**
@@ -14,18 +14,19 @@ const Blog: React.FC = () => {
     /**
      * Get post data from content url on front end
      */
-    async function getPostData(post: BlogPost): Promise<void> {
-      let preview = 'test';
+    async function getPostData(post: BlogPostProps): Promise<void> {
+      let content = '';
 
       await fetch(post.contentUrl)
         .then((res) => res.text())
         .then((text) => {
-          preview = `${text.substr(0, 140).replace('# ', '')}...`;
+          content = text;
         });
 
       const newData = postData.concat({
         ...post,
-        preview,
+        content,
+        preview: `${content.substr(0, 140).replace('# ', '')}...}`,
       });
 
       setPostData(newData);
@@ -39,7 +40,7 @@ const Blog: React.FC = () => {
   return (
     <div id="blog">
       <div className="container">
-        {postData.map((post) => <BlogPreview {...post} />)}
+        {postData.map((post) => <BlogPreview key={post.title} {...post} />)}
       </div>
     </div>
   );
