@@ -8,7 +8,7 @@
 
 2. Open `blog-posts.ts`
 
-3. Starting from line 11, edit one of the objects like the following:
+3. Starting from line 52, edit one of the objects like the following:
 
 ```
 {
