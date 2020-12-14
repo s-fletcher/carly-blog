@@ -10,30 +10,29 @@ import jumpToTop from '../lib/jumpToTop';
  */
 const Blog: React.FC = () => {
   const [postData, setPostData] = useState<BlogPostProps[]>([]);
+  const [welcomePost, setWelcomePost] = useState<BlogPostProps>();
 
   useEffect(() => {
     jumpToTop();
   }, []);
 
   useEffect(() => {
-    /**
-     * Get post data from content url on front end
-     */
-    async function getPostData(post: BlogPostProps): Promise<void> {
-      const newData = postData.concat(post);
+    console.log(postData.length);
 
-      setPostData(newData);
+    if (blogPosts[postData.length + 1]) {
+      if (!welcomePost) {
+        setWelcomePost(blogPosts[0]);
+      } else {
+        setPostData(postData.concat(blogPosts[postData.length + 1]));
+      }
     }
-
-    if (blogPosts[postData.length]) {
-      getPostData(blogPosts[postData.length]);
-    }
-  }, [postData]);
+  }, [postData, welcomePost]);
 
   return (
     <div id="blog">
       <div className="container">
-        {postData.map((post) => <BlogPreview key={post.title} {...post} />)}
+        {welcomePost ? <BlogPreview key="Welcome to my blog!" {...welcomePost} /> : ''}
+        {postData.reverse().map((post) => <BlogPreview key={post.title} {...post} />)}
       </div>
     </div>
   );

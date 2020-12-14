@@ -59,8 +59,6 @@ const blogPosts: BlogPostProps[] = [
     previewImagePos: 'center 10%',
     headerImagePos:  'center 10%',
   },
-  
-  
   {
     title:           'This is an Example Blog Post 2',
     date:            'December 16, 2020',
