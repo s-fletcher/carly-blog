@@ -28,6 +28,10 @@
     display: flex;
     height: 100%;
     list-style: none;
+
+    a {
+      text-decoration: none;
+    }
     
     
     .item {
