@@ -59,15 +59,8 @@ const blogPosts: BlogPostProps[] = [
     previewImagePos: 'center 10%',
     headerImagePos:  'center 10%',
   },
-  {
-    title:           'This is an Example Blog Post This is a long one',
-    date:            'December 16, 2020',
-    imageUrl:        './images/example-image.png',
-    contentUrl:      require('./example-blog-post.md'),
-    preview:         'lorem espion',
-    previewImagePos: 'center 10%',
-    headerImagePos:  'center 10%',
-  },
+  
+  
   {
     title:           'This is an Example Blog Post 2',
     date:            'December 16, 2020',
