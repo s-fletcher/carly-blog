@@ -3,12 +3,17 @@ import '../styles/blog.scss';
 // import marked from 'marked';
 import blogPosts, { BlogPostProps } from '../blog-posts/blog-posts';
 import BlogPreview from '../components/BlogPreview';
+import jumpToTop from '../lib/jumpToTop';
 
 /**
  * Gallery of blog posts
  */
 const Blog: React.FC = () => {
   const [postData, setPostData] = useState<BlogPostProps[]>([]);
+
+  useEffect(() => {
+    jumpToTop();
+  }, []);
 
   useEffect(() => {
     /**

@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import {
   BrowserRouter as Router,
   Switch,
@@ -38,4 +38,5 @@ const App: React.FC = () => (
     </Router>
   </div>
 );
+
 export default App;
