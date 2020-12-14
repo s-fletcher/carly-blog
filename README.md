@@ -46,3 +46,17 @@
 > Yay! You've uploaded your new blog post, let's check to see that it worked.
 
 14. Navigate to [carlyburwell.com](https://carlyburwell.com) to make sure that it's working.
+
+## How to embed an image into a blog post
+
+1. Go to `public/images`
+
+2. Upload the image by clicking `Add file > Upload new file`
+
+3. Click `Commit changes`
+
+3. Navigate to blog post you want to edit
+
+4. Add `![alt text](./images/name-of-image.png)` to wherever you want to add your image in the blog post
+
+5. Click `Commit changes`
