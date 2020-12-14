@@ -15,7 +15,7 @@ const blogPosts: BlogPostProps[] = [
     date:       'December 13, 2020',
     image:      require('./images/welcome.png'),
     contentUrl: require('./welcome.md'),
-    preview:    'Learn about my life, my passions, and my goals. I am so happy you are here, feel free to stay awhile!',
+    preview:    'Learn about my life, my passions, and my goals. I am so happy you are here, feel free to stay for a while!',
   },
   {
     title:      'This is an Example Blog Post This is a long one',
