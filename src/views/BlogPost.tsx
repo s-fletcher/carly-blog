@@ -3,7 +3,7 @@ import '../styles/blog-post.scss';
 import marked from 'marked';
 import { withRouter } from 'react-router-dom';
 import { Location } from 'history';
-import { sentenceCase } from 'change-case';
+import { paramCase, sentenceCase } from 'change-case';
 import blogPosts from '../blog-posts/blog-posts';
 
 type BlogPostProps = {
@@ -20,7 +20,7 @@ interface Props extends Partial<BlogPostProps> {
 /**
  * Blog posts
  */
-const BlogPost = ({ location, title, date, image, content }: Props): JSX.Element => {
+const BlogPost = ({ location }: Props): JSX.Element => {
   const [post, setPost] = useState<BlogPostProps>();
 
   useEffect(() => {
@@ -29,7 +29,7 @@ const BlogPost = ({ location, title, date, image, content }: Props): JSX.Element
      */
     async function getPostDataUsingUrl(postTitle: string): Promise<void> {
       let newContent = '';
-      const rawPost = blogPosts.find((obj) => obj.title.toLowerCase() === postTitle);
+      const rawPost = blogPosts.find((obj) => paramCase(obj.title).toLowerCase() === postTitle);
 
       // Checking if we were able to find the post
       if (rawPost) {
@@ -46,12 +46,8 @@ const BlogPost = ({ location, title, date, image, content }: Props): JSX.Element
       }
     }
 
-    if (!title || !date || !image || !content) {
-      const postTitle = sentenceCase(location.pathname).toLowerCase();
-      getPostDataUsingUrl(postTitle);
-    } else {
-      setPost({ title, date, image, content });
-    }
+    const postTitle = paramCase(location.pathname.toLowerCase());
+    getPostDataUsingUrl(postTitle);
     // eslint-disable-next-line
   }, []);
 

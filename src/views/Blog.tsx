@@ -26,7 +26,7 @@ const Blog: React.FC = () => {
       const newData = postData.concat({
         ...post,
         content,
-        preview: `${content.substr(0, 140).replace('# ', '')}...}`,
+        preview: `${content.substr(0, 140).replaceAll('# ', '').replaceAll('*', '')}...`,
       });
 
       setPostData(newData);
