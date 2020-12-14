@@ -15,10 +15,11 @@
       justify-content: space-between;
 
       .image-border {
+        max-width: 320px;
         width: 35vw;
 
         img {
-          max-width: 300px;
+          max-width: 320px;
           width: 35vw;
         }
       }
