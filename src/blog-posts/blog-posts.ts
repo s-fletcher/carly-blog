@@ -10,10 +10,10 @@ export type BlogPost = {
  */
 const blogPosts: BlogPost[] = [
   {
-    title:      'This is an Example Blog Post',
-    date:       'December 12, 2020',
-    image:      require('./images/example-image.png'),
-    contentUrl: require('./example-blog-post.md'),
+    title:      'Welcome to my Blog!',
+    date:       'December 13, 2020',
+    image:      require('./images/welcome.png'),
+    contentUrl: require('./welcome.md'),
   },
   {
     title:      'This is an Example Blog Post This is a long one',
