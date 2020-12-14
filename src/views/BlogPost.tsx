@@ -4,13 +4,10 @@ import marked from 'marked';
 import { withRouter } from 'react-router-dom';
 import { Location } from 'history';
 import { paramCase } from 'change-case';
-import blogPosts from '../blog-posts/blog-posts';
+import blogPosts, { BlogPostProps as RawBlogPostProps } from '../blog-posts/blog-posts';
 import jumpToTop from '../lib/jumpToTop';
 
-type BlogPostProps = {
-    title: string;
-    date: string;
-    image: string;
+interface BlogPostProps extends RawBlogPostProps{
     content: string;
 }
 
@@ -59,9 +56,13 @@ const BlogPost = ({ location }: Props): JSX.Element => {
       <div className="container">
         <p className="date">{post?.date}</p>
         <h1>{post?.title}</h1>
-        {/* <div className="image-border"> */}
-        <div className="image-container" style={{ backgroundImage: `url(${post?.image})` }} />
-        {/* </div> */}
+        <div
+          className="image-container"
+          style={{
+            backgroundImage:    `url(${post?.imageUrl})`,
+            backgroundPosition: post?.headerImagePos,
+          }}
+        />
         {/* eslint-disable-next-line react/no-danger */}
         <div className="blog-content" dangerouslySetInnerHTML={{ __html: post ? post.content : '' }} />
       </div>
