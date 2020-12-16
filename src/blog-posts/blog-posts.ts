@@ -62,9 +62,9 @@ const blogPosts: BlogPostProps[] = [
   {
     title:           'The Dreaded Icebreaker Post',
     date:            'December 16, 2020',
-    imageUrl:        './images/example-image.png',
-    contentUrl:      require('./example-blog-post.md'),
-    preview:         'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ',
+    imageUrl:        './images/icebreakerheader.png',
+    contentUrl:      require('./the-dreaded-icebreaker.md'),
+    preview:         'We all hate icebreakers, but join me in going over some facts about myself as our little icebreaker introduction. ',
     previewImagePos: 'center 10%',
     headerImagePos:  'center 10%',
   },
