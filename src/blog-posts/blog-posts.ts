@@ -64,7 +64,7 @@ const blogPosts: BlogPostProps[] = [
     date:            'December 16, 2020',
     imageUrl:        './images/icebreakerheader.png',
     contentUrl:      require('./the-dreaded-icebreaker.md'),
-    preview:         'We all hate icebreakers, but join me in going over some facts about myself as our little icebreaker introduction. ',
+    preview:         'We all know the panic of coming up with cool icebreaker facts to share with others, but I am flipping the script. Join me in going over some boring and uninteresting facts about myself as our little icebreaker introduction. ',
     previewImagePos: 'center 10%',
     headerImagePos:  'center 10%',
   },
