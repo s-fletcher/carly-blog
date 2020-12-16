@@ -36,7 +36,7 @@ I played the flute for 7 years and was even a section leader in my high school b
 
 Concerts are one of my favorite events to attend and I have been to over 15 different concerts. My favorites have been Twenty One Pilots, Miley Cyrus, AJR, Ariana Grande, and Rex Orange County. 
 
-10.	 **I love to cook and bake.** 
+10. **I love to cook and bake.**
 
 My dad was a chef in his early twenties and can cook without even having a recipe. I have watched, helped, and taken in all of his different recipes and love to cook those dishes for others (I love love love to host other people!) I personally like to cook Asian and Indian food the most, but I must admit… I use a recipe.
 
@@ -56,7 +56,7 @@ I absolutely love the Real Housewives, Married at First Sight, 90 Day Fiancée, 
 
 You probably won't see my watching any other sport unless forced by my dad or boyfriend. My favorite hockey team is the Dallas Stars or Toronto Maple Leafs. My favorite college football team is obviously OU, but I also like to watch the Cowboys, except for when they are losing terribly. 
 
-15.	 **I hate the smell of coconut and I hate the taste of cilantro.** 
+15. **I hate the smell of coconut and hate the taste of cilantro.**
 
 While I wouldn’t call myself a picky eater, I would call myself a texture eater. If the texture of food is slimy or weird, I will probably not eat it. 
 
