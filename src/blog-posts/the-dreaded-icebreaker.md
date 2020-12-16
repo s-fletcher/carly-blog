@@ -62,7 +62,7 @@ While I wouldn’t call myself a picky eater, I would call myself a texture eate
 
 16.	**My favorite color is ~~pink~~ undecided.** 
 
-I love to wear patterns and bright colors but other times I like to just wear blacks and greys. My room is a pink, green, blue, yellow floral theme. I think after typing this, maybe I don’t have a favorite color, haha.
+My go-to favorite color has always been pink. I have never put much thought into my favorite color but while writing this I took a look at my closet and my room. I wear mostly patterns and bright colors but I also have a lot of neutral blacks and greys. My room is a pink, green, blue, yellow floral theme. I think after much contemplation, maybe I don’t have a favorite color, haha.
 
 17.	**I have never broken any bone in my body.** 
 
