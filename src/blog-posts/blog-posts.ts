@@ -60,7 +60,7 @@ const blogPosts: BlogPostProps[] = [
     headerImagePos:  'center 10%',
   },
   {
-    title:           'This is an Example Blog Post 2',
+    title:           'The Dreaded Icebreaker Post',
     date:            'December 16, 2020',
     imageUrl:        './images/example-image.png',
     contentUrl:      require('./example-blog-post.md'),
