@@ -80,7 +80,7 @@ There was a time in my life where I rarely ever drank water- and just drank Diet
 
 I have to confess that I love to buy really unique shoes that most would call “ugly.” I think they are a great conversation starter and a great way to spice up an outfit. Are 85 pairs of shoes too much? Yeah, you’re right… it is. 
 
-Well, that is all I am going to share for this blog post. I hope you didn’t find these facts completely boring and that you have learned a little bit more about me and my personality.
+          Well, that is all I am going to share for this blog post. I hope you didn’t find these facts completely boring and that you have learned a little bit more about me and my personality.
 
 I’ll see you next time!
 Carly 
