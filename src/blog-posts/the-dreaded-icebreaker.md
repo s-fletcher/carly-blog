@@ -3,9 +3,11 @@ Picture this: It is the first day of class or the first time you are meeting wit
 1.	**I am 20 years old.** 
 
 My birthday is March 4th, 2000.. March 4th is also known as National Marching Day, National Grammar Day, or my personal favorite- National Pound Cake Day!
+
 2.	**I really love to travel internationally.** 
 
 Some of my favorite places I have been include Aruba, Paris, Jamaica and Belgium. 
+
 3.	**I also really love to travel around the United States.** 
 
 It is on my bucket list to visit, and do an activity, in every single state! So far, I have accomplished 16/50.
