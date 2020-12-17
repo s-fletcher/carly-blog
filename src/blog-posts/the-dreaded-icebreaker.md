@@ -24,7 +24,8 @@ Dogs are my favorite animal, but if I had to choose my favorite zoo/exotic anima
 
 5.	**I am an only child.** 
 
-I have never seen it as lonely though, I have always surrounded myself with friends that feel like siblings- minus the sharing and fighting!
+I have never seen it as lonely though, I have always surrounded myself with friends that feel like siblings- minus the sharing and fighting! BONUS FACT!! I am in a Christian Women's Sorority called Sigma Phi Lambda, so I really do have friends that are my sisters. My sorority is my favorite part about friendships and I love being part of this sisterhood.
+
 
 6.	**I am a Christian!** 
 
