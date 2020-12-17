@@ -57,14 +57,10 @@ Concerts are one of my favorite events to attend and I have been to over 15 diff
   <img src="/images/concert2.png" />
 </div>
 
-10. **I love to cook and bake.**
+10.	**Crappy reality shows are my thing.** 
 
-My dad was a chef in his early twenties and can cook without even having a recipe. I have watched, helped, and taken in all of his different recipes and love to cook those dishes for others (I love love love to host other people!) I personally like to cook Asian and Indian food the most, but I must admit… I use a recipe.
+I absolutely love the Real Housewives, Married at First Sight, 90 Day Fiancée, Love is Blind, Temptation Island, The Bachelor, and all other life-sucking, binge-worthy, drama-filled television shows. I also like reality game shows like Big Brother, Amazing Race, and Survivor. 
 
-<div class="image-column">
-  <img src="/images/food1.png" />
-  <img src="/images/food2.png" />
-</div>
 
 11.	**I am a huge movie fan.** 
 
@@ -74,11 +70,7 @@ I like all genres of movies, even horror. While I am not a “movie nerd” and 
 
 I have realized that it may be weird or different, but it’s just who I am. I have big feelings, I am a seeker, I am a challenger, I get hangry (it’s really bad y’all, I keep snacks on me 24/7) , I am strongly empathetic, and I am conscientious.
 
-13.	**Crappy reality shows are my thing.** 
-
-I absolutely love the Real Housewives, Married at First Sight, 90 Day Fiancée, Love is Blind, Temptation Island, The Bachelor, and all other life-sucking, binge-worthy, drama-filled television shows. I also like reality game shows like Big Brother, Amazing Race, and Survivor. 
-
-14.	**My favorite sport to watch is hockey and football.** 
+13.	**My favorite sport to watch is hockey and football.** 
 
 You probably won't see my watching any other sport unless forced by my dad or boyfriend. My favorite hockey team is the Dallas Stars or Toronto Maple Leafs. My favorite college football team is obviously OU, but I also like to watch the Cowboys, except for when they are losing terribly. 
 
@@ -86,17 +78,26 @@ You probably won't see my watching any other sport unless forced by my dad or bo
   <img src="/images/football.png" />
 </div>
 
-15. **I hate the smell of coconut and hate the taste of cilantro.**
+14. **I hate the smell of coconut and hate the taste of cilantro.**
 
 While I wouldn’t call myself a picky eater, I would call myself a texture eater. If the texture of food is slimy or weird, I will probably not eat it. 
 
-16.	**My favorite color is ~~pink~~ undecided.** 
+15.	**My favorite color is ~~pink~~ undecided.** 
 
 My go-to favorite color has always been pink. I have never put much thought into my favorite color but while writing this I took a look at my closet and my room. I wear mostly patterns and bright colors but I also have a lot of neutral blacks and greys. My room is a pink, green, blue, yellow floral theme. I think after much contemplation, maybe I don’t have a favorite color, haha.
 
-17.	**I have never broken any bone in my body.** 
+16.	**I have never broken any bone in my body.** 
 
 I feel like that makes me sound really boring and unadventurous- but I guess I have just been lucky!
+
+17. **I love to cook and bake.**
+
+My dad was a chef in his early twenties and can cook without even having a recipe. I have watched, helped, and taken in all of his different recipes and love to cook those dishes for others (I love love love to host other people!) I personally like to cook Asian and Indian food the most, but I must admit… I use a recipe.
+
+<div class="image-column">
+  <img src="/images/food1.png" />
+  <img src="/images/food2.png" />
+</div>
 
 18.	**I would much rather eat something salty than sweet.** 
 
