@@ -6,13 +6,19 @@ My birthday is March 4th, 2000.. March 4th is also known as National Marching Da
 
 2.	**I really love to travel internationally.** 
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="/public/images/welcome.png" width="20%" />
-  <img src="/public/images/welcome.png" width="20%" />
-  <img src="/public/images/welcome.png" width="20%" />
+Some of my favorite places I have been include Aruba, Paris, Jamaica and Belgium. 
+
+<div class="image-column">
+  <img src="/images/welcome.png" />
+  <img src="/images/welcome.png" />
+  <!-- <img src="/images/welcome.png" /> -->
 </div>
 
-Some of my favorite places I have been include Aruba, Paris, Jamaica and Belgium. 
+<div class="image-column">
+  <img src="/images/welcome.png" />
+  <img src="/images/welcome.png" />
+  <img src="/images/welcome.png" />
+</div>
 
 3.	**I also really love to travel around the United States.** 
 
