@@ -69,7 +69,7 @@ const blogPosts: BlogPostProps[] = [
     headerImagePos:  'center 10%',
   },
     {
-    title:           'Coming soon...',
+    title:           'Blog Post Coming Soon...',
     date:            'December 16, 2020',
     imageUrl:        './images/comingsoon.png',
     contentUrl:      require('./coming-soon.md'),
