@@ -73,7 +73,7 @@ const blogPosts: BlogPostProps[] = [
     date:            'December 16, 2020',
     imageUrl:        './images/comingsoon.png',
     contentUrl:      require('./coming-soon.md'),
-    preview:         'Super fun post coming soon.... ',
+    preview:         'Super awesome post coming soon...stay tuned!! ',
     previewImagePos: 'center 10%',
     headerImagePos:  'center 10%',
     }
