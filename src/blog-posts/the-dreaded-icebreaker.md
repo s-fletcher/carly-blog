@@ -18,13 +18,13 @@ Some of my favorite places I have been include Aruba, Paris, Jamaica and Belgium
 
 It is on my bucket list to visit, and do an activity, in every single state! So far, I have accomplished 16/50.
 
-4.	**I am 100% a dog person.** 
+4.	**I am a Christian!** 
 
-Dogs are my favorite animal, but if I had to choose my favorite zoo/exotic animal it would either be zebras or otters. Don’t ask why… I’m not really sure why myself. 
+This is a huge part of me, how I make decisions, and how I live out my life. I am proud to call myself a Christian and I strive to show others the joy I have found in Christ.
 
 5.	**I am an only child.** 
 
-I have never seen it as lonely though, I have always surrounded myself with friends that feel like siblings- minus the sharing and fighting! BONUS FACT!! I am in a Christian Women's Sorority called Sigma Phi Lambda, so I really do have friends that are my sisters. My sorority is my rock and I love being part of my sisterhood.
+I have never seen it as lonely though, I have always surrounded myself with friends that feel like siblings- minus the sharing and fighting! BONUS FACT!! I am in a Christian Women's Sorority called Sigma Phi Lambda, so I really do have lots of sisters. My sorority is my rock, and I love being involved in my sisterhood. 
 
 <div class="image-column">
   <img src="/images/sorority1.png" />
@@ -32,9 +32,9 @@ I have never seen it as lonely though, I have always surrounded myself with frie
   <img src="/images/sorority3.png" />
 </div>
 
-6.	**I am a Christian!** 
+6.	**I am 100% a dog person.** 
 
-This is a huge part of me, how I make decisions, and how I live out my life. I am proud to call myself a Christian and I strive to show others the joy I have found in Christ.
+Dogs are my favorite animal, but if I had to choose my favorite zoo/exotic animal it would either be zebras or otters. Don’t ask why… I’m not really sure why myself.
 
 7.	**I am a Texan.** 
 
