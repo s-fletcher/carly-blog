@@ -68,6 +68,15 @@ const blogPosts: BlogPostProps[] = [
     previewImagePos: 'center 10%',
     headerImagePos:  'center 10%',
   },
+    {
+    title:           'Coming soon...',
+    date:            'December 16, 2020',
+    imageUrl:        './images/icebreakerheader.png',
+    contentUrl:      require('./the-dreaded-icebreaker.md'),
+    preview:         'Super fun post coming soon.... ',
+    previewImagePos: 'center 10%',
+    headerImagePos:  'center 10%',
+    }
 ];
 
 export default blogPosts;
