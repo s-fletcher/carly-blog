@@ -14,15 +14,15 @@ Some of my favorite places I have been include Aruba, Paris, Jamaica and Belgium
   <!-- <img src="/images/welcome.png" /> -->
 </div>
 
-<div class="image-column">
-  <img src="/images/welcome.png" />
-  <img src="/images/welcome.png" />
-  <img src="/images/welcome.png" />
-</div>
-
 3.	**I also really love to travel around the United States.** 
 
 It is on my bucket list to visit, and do an activity, in every single state! So far, I have accomplished 16/50.
+
+<div class="image-column">
+  <img src="/images/travel1.png" />
+  <img src="/images/travel2.png" />
+  <img src="/images/travel3.png" />
+</div>
 
 4.	**I am 100% a dog person.** 
 
