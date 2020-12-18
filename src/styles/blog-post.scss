@@ -64,11 +64,30 @@
           margin-top: 0;
           max-width: calc(33% - 10px);
           width: auto;
-        }
 
-        img:last-child {
-          margin-right: 0;
-          max-width: 33%;
+          &:last-child {
+            margin-right: 0;
+            max-width: 33%;
+          }
+        }
+      }
+    }
+  }
+
+  @media only screen and (max-width: 570px) {
+    .container {
+      .blog-content {
+        .image-column {
+          flex-flow: column;
+
+          img {
+            margin-right: 0;
+            max-width: 75%;
+            
+            &:last-child {
+              max-width: 75%;
+            }
+          }
         }
       }
     }
