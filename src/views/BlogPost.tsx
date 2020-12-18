@@ -4,6 +4,7 @@ import marked from 'marked';
 import { withRouter } from 'react-router-dom';
 import { Location } from 'history';
 import { paramCase } from 'change-case';
+import mediumZoom from 'medium-zoom';
 import blogPosts, { BlogPostProps as RawBlogPostProps } from '../blog-posts/blog-posts';
 import jumpToTop from '../lib/jumpToTop';
 import NotFound from './NotFound';
@@ -55,6 +56,12 @@ const BlogPost = ({ location }: Props): JSX.Element => {
     // eslint-disable-next-line
   }, []);
 
+  useEffect(() => {
+    if (post) {
+      mediumZoom('img', { background: 'rgba(255,255,255,0.75)' });
+    }
+  }, [post]);
+
   if (found) {
     return (
       <div id="blog-post">
@@ -63,6 +70,7 @@ const BlogPost = ({ location }: Props): JSX.Element => {
           <h1 className="title">{post?.title}</h1>
           <div
             className="image-container"
+            data-zoomable
             style={{
               backgroundImage:    `url(${post?.imageUrl})`,
               backgroundPosition: post?.headerImagePos,
