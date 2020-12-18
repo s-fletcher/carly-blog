@@ -10,8 +10,8 @@ Some of my favorite places I have been include Aruba, Paris, Jamaica and Belgium
 
 <div class="image-column">
   <img src="/images/travel1.png" />
-  <img src="/images/travel2.png" />
   <img src="/images/travel3.png" />
+  <img src="/images/travel2.png" />
 </div>
 
 3.	**I also really love to travel around the United States.** 
@@ -27,8 +27,8 @@ This is a huge part of me, how I make decisions, and how I live out my life. I a
 I have never seen it as lonely though, I have always surrounded myself with friends that feel like siblings- minus the sharing and fighting! BONUS FACT!! I am in a Christian Women's Sorority called Sigma Phi Lambda, so I really do have lots of sisters. My sorority is my rock, and I love being involved in my sisterhood. 
 
 <div class="image-column">
-  <img src="/images/sorority1.png" />
   <img src="/images/sorority2.png" />
+  <img src="/images/sorority1.png" />
   <img src="/images/sorority3.png" />
 </div>
 
