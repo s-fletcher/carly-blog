@@ -54,6 +54,10 @@
         width: 100%;
       }
 
+      ol {
+        list-style-position: inside;
+      }
+
       .image-column {
         align-items: center;
         display: flex;
