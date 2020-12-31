@@ -21,25 +21,33 @@ Natalie is one of my friends from high school who also goes to OU. Her and I go 
 As I asked my friends what their favorite song of the year was, I thought to myself “Well, what were MY favorite songs?” To be honest, I can never think of my favorite song when put on the spot, and even scrolling through my Spotify it is impossible to pick just one. So, I am going to make a little 8 song overview of the best tunes I have had on repeat, getting me through 2020. 
 
 1.	Double Negative by Dominic Fike
+
 If you want an upbeat song to dance around to, this is it!
 
 2.	Cabin Fever by Jaden
+
 Sam showed me Jaden Smith, and I have to admit that I like every. single. song. on his new album CTV3.
 
 3.	Level of Concern (live from outside) by Twenty One Pilots
+
 I have been a fan of them for a while and this is a song that they created in quarantine and it is so fun.
 
 4.	Face to Face by Rex Orange County
+
 This is another fun, bubbly song that is good to dance around to.
 
 5.	Awake My Soul by Hillsong Worship
+
 My favorite worship song at the moment- our God is so great y’all! 
 
 6.	Bummerland by ARJ
+
 Another great song that came out of quarantine, but real talk, I love anything that AJR puts out!
 
 7.	Ilomilo by Billie Eilish
-Everyone knows Billie nowadays, but this is a total underplayed and underappreciated song by her.
+
+Everyone knows Billie Eilish nowadays, but this is a total underplayed and underappreciated song by her.
 
 8.	Alaska by Maggie Rogers 
+
 I had first heard someone sing this song on The Voice and fell in love with the melody and falsetto voice parts.
