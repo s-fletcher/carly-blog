@@ -1,0 +1,42 @@
+@import './constants.scss';
+
+.recipe-preview {
+  .image-border {
+    .no-overflow {
+      overflow: hidden;
+
+      .image-container {
+        background-position: center center;
+        background-size: cover;
+        height: 30vw;
+        max-height: 250px;
+        min-height: 200px;
+        overflow: hidden;
+        transition: transform 500ms;
+      }
+    }
+  }
+
+  h2 {
+    margin: 10px 0;
+  }
+    
+  p {
+    color: $gray;
+  }
+
+  a {
+    color: inherit;
+    text-decoration: none;
+  }  
+}
+
+.blog-preview:hover {
+  .image-border {
+    .no-overflow {
+      .image-container {
+        transform: scale(1.1);
+      }
+    }
+  }
+}

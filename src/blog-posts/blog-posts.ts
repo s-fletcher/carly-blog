@@ -68,7 +68,7 @@ const blogPosts: BlogPostProps[] = [
     previewImagePos: 'center 10%',
     headerImagePos:  'center 10%',
   },
-    {
+  {
     title:           '2020 - Top Songs of the Year',
     date:            'December 30, 2020',
     imageUrl:        './images/spotifyheader.png',
@@ -76,7 +76,7 @@ const blogPosts: BlogPostProps[] = [
     preview:         'What was your favorite song this year? A daunting question that I have my 3 friends answer, followed by my top 8 songs of 2020. Give them a listen, you might find your new favorite song!  ',
     previewImagePos: 'center 10%',
     headerImagePos:  'center 10%',
-    }
+  },
 ];
 
 export default blogPosts;
