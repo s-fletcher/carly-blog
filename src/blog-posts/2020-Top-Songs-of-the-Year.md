@@ -61,5 +61,5 @@ Honorable Mention:
 2. Nightcrawlers- NIKI
 3. Force of Nature- Bea Miller
 4. Love Somebody Else- Lovelytheband
-5. Lost in Japan- Shawn Mendez
+5. Lost in Japan- Shawn Mendes
 
