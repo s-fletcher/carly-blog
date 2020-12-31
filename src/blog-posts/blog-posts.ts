@@ -71,7 +71,7 @@ const blogPosts: BlogPostProps[] = [
     {
     title:           '2020 - Top Songs of the Year',
     date:            'December 30, 2020',
-    imageUrl:        './images/comingsoon.png',
+    imageUrl:        './images/spotifyheader.png',
     contentUrl:      require('./2020-Top-Songs-of-the-Year.md'),
     preview:         'What was your favorite song this year? A daunting question that I have my 3 friends answer, followed by my top 8 songs of 2020. Give them a listen, you might find your new favorite song!  ',
     previewImagePos: 'center 10%',
