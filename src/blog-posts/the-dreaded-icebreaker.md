@@ -115,5 +115,6 @@ I have to confess that I love to buy really unique shoes that most would call �
 Well, that is all I am going to share for this blog post. I hope you didn’t find these facts completely boring and that you have learned a little bit more about me and my personality.
 
 I’ll see you next time!
+
 Carly 
 
