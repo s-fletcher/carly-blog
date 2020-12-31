@@ -55,11 +55,11 @@ I had first heard someone sing this song on The Voice and fell in love with the 
 
 Listening back to all of these songs, many of them beg you to dance around and be silly while listening. My favorite songs are fun, quirky, and get you up and dancing. As we finish up this year, I encourage you to listen to some of my favorite songs with an open mind- and maybe you’ll find your new favorite artist for 2021! 
 
-Honorable Mention:
+**Honorable Mention:**
 
-1. Put Your Records On- Ritt Momney
-2. Nightcrawlers- NIKI
-3. Force of Nature- Bea Miller
-4. Love Somebody Else- Lovelytheband
-5. Lost in Japan- Shawn Mendes
+- Put Your Records On- Ritt Momney
+- Nightcrawlers- NIKI
+- Force of Nature- Bea Miller
+- Love Somebody Else- Lovelytheband
+- Lost in Japan- Shawn Mendes
 
