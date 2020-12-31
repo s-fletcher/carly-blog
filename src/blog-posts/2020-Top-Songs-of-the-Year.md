@@ -51,3 +51,15 @@ Everyone knows Billie Eilish nowadays, but this is a total underplayed and under
 8.	Alaska by Maggie Rogers 
 
 I had first heard someone sing this song on The Voice and fell in love with the melody and falsetto voice parts.
+
+
+Listening back to all of these songs, many of them beg you to dance around and be silly while listening. My favorite songs are fun, quirky, and get you up and dancing. As we finish up this year, I encourage you to listen to some of my favorite songs with an open mind- and maybe you’ll find your new favorite artist for 2021! 
+
+Honorable Mention:
+
+1. Put Your Records On- Ritt Momney
+2. Nightcrawlers- NIKI
+3. Force of Nature- Bea Miller
+4. Love Somebody Else- Lovelytheband
+5. Lost in Japan- Shawn Mendez
+
