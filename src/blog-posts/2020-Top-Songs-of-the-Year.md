@@ -38,7 +38,7 @@ This is another fun, bubbly song that is good to dance around to.
 
 5.	Awake My Soul by Hillsong Worship
 
-My favorite worship song at the moment- our God is so great y’all! 
+My favorite worship song of the year- our God is so great y’all! 
 
 6.	Bummerland by ARJ
 
