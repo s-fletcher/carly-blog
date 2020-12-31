@@ -69,7 +69,7 @@ const blogPosts: BlogPostProps[] = [
     headerImagePos:  'center 10%',
   },
     {
-    title:           '2020- My Top Songs of the Year',
+    title:           '2020 - Top Songs of the Year',
     date:            'December 30, 2020',
     imageUrl:        './images/comingsoon.png',
     contentUrl:      require('./coming-soon.md'),
