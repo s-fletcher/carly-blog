@@ -63,3 +63,6 @@ Listening back to all of these songs, many of them beg you to dance around and b
 - Love Somebody Else- Lovelytheband
 - Lost in Japan- Shawn Mendes
 
+Happy New Year! May 2021 bless you and your loved ones.
+
+Carly
