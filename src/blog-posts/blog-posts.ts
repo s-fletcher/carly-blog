@@ -69,11 +69,11 @@ const blogPosts: BlogPostProps[] = [
     headerImagePos:  'center 10%',
   },
     {
-    title:           'Blog Post Coming Soon...',
-    date:            'December 16, 2020',
+    title:           '2020- My Top Songs of the Year',
+    date:            'December 30, 2020',
     imageUrl:        './images/comingsoon.png',
     contentUrl:      require('./coming-soon.md'),
-    preview:         'The ideas are formulating and there is a super awesome post coming your way soon...stay tuned!! ',
+    preview:         'What was your favorite song this year? A daunting question that I have my 3 friends answer followed by my top 8 songs of 2020. Give them a listen, you might find your new favorite song!  ',
     previewImagePos: 'center 10%',
     headerImagePos:  'center 10%',
     }
