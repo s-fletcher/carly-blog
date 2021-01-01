@@ -71,7 +71,7 @@ const recipePosts: RecipePostProps[] = [
     headerImagePos:  'center 10%',
     ingredients:     [
       
-      'This is where all the ingredients will be. Feel free to click each item and it will put a line through it to mark it off.'
+      'This is where all the ingredients will be. Feel free to click each item and it will put a line through it to mark it off- This makes trips to the grocery store much easier!.'
     ],
     directions: [
       
