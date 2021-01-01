@@ -28,7 +28,6 @@
     .info {
       display: flex;
       flex-flow: column;
-      justify-content: space-between;
 
       .title-preview {
         h2 {
@@ -43,17 +42,26 @@
 
       .time {
         display: flex;
+        margin-top: 15px;
       }
     }
   }
 }
 
-.blog-preview:hover {
+.recipe-preview:hover {
   .image-border {
     .no-overflow {
       .image-container {
         transform: scale(1.1);
       }
+    }
+  }
+}
+
+@media only screen and (max-width: 570px) {
+  .recipe-preview {
+    a {
+      flex-flow: column;
     }
   }
 }
