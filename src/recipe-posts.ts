@@ -69,7 +69,11 @@ const recipePosts: RecipePostProps[] = [
     description:     'If you read my introduction post, you know that I love to cook and bake! My mom is an excellent home baker. She has a sweet tooth, and it shows when she makes the most delicious cookies and cake bars. My dad worked in a restaurant for a while, so he knows all the in-n-outs of the kitchen. He is really good at cooking, so good that he doesn’t even use a recipe! I remember cooking with him a lot when I was younger. At times, I was a great helper, but I would have to argue most of the time I was just the taste tester.  My idea for this part of my page is to share some of my favorite recipes with step-by-step instructions. I get a lot of inspiration from Pinterest or from my dad, but I always end up tweaking them and making them my own.Being a college student- many of my recipes use minimal ingredients and minimal kitchen equipment. However, I do like to splurge on some recipes, so look out for my previews on each post for quick overviews on the recipes! Below is what my recipe layout will look like... I hope you enjoy my recipes and eat up!',
     previewImagePos: 'center 10%',
     headerImagePos:  'center 10%',
-    ingredients:     [
+    <div class="image-column">
+  <img src="/images/recipe1.png" />
+  <img src="/images/recipe2.png" />
+  <img src="/images/recipe3.png" />
+</div>ingredients:     [
       'ingredient 1',
       'ingredient 2',
       'ingredient 3...',
