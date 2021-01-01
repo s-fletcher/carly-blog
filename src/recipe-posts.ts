@@ -71,14 +71,8 @@ const recipePosts: RecipePostProps[] = [
     previewImagePos: 'center 10%',
     headerImagePos:  'center 10%',
     ingredients:     [
-      '2 large boneless skinless chicken breasts',
-      '2 cups low-sodium chicken broth',
-      '4 cloves garlic, minced',
-      '2 cups heavy cream',
-      'salt to taste',
-      '1 pound fettuccine',
-      '1 sprig chopped fresh parsley',
-      '2 cups freshly grated Parmigiano-Reggiano cheese, divded',
+      
+      This is where all the ingredients will be. Feel free to click each item and it will put a line through it to mark it off.
     ],
     directions: [
       'Combine chicken breasts and chicken broth in a saucepan over medium-high heat. Bring to a boil, cover, and reduce heat to low; simmer for 5 minutes. Turn breasts, cover, and simmer another 5 minutes. Remove from heat and let sit with the cover on for 15 minutes.',
