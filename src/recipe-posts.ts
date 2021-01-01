@@ -70,15 +70,17 @@ const recipePosts: RecipePostProps[] = [
     previewImagePos: 'center 10%',
     headerImagePos:  'center 10%',
     ingredients:     [
-      
-      'This is where all the ingredients will be. Feel free to click each item and it will put a line through it to mark it off- This makes trips to the grocery store much easier!.'
+      'ingredient 1',
+      'ingredient 2',
+      'ingredient 3',
     ],
     directions: [
-      
-      'You can also strike through the directions when you have completed them, so you do not get lost in the steps!'
+      'step 1',
+      'step 2',
+      'step 3',
     ],
-    prepTime: 'Here will be a prep time',
-    cookTime: 'Finally, here will be the cooking time,'
+    prepTime: 10,
+    cookTime: 60,
   },
 ];
 
