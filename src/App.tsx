@@ -9,6 +9,7 @@ import Socials from './components/Socials';
 import Blog from './views/Blog';
 import BlogPost from './views/BlogPost';
 import Home from './views/Home';
+import NotFound from './views/NotFound';
 import RecipePost from './views/RecipePost';
 import Recipes from './views/Recipes';
 
@@ -35,6 +36,9 @@ const App: React.FC = () => (
         </Route>
         <Route exact path="/">
           <Home />
+        </Route>
+        <Route path="/">
+          <NotFound />
         </Route>
       </Switch>
 
