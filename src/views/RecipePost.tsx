@@ -27,8 +27,6 @@ const RecipePost = ({ location }: Props): JSX.Element => {
      * Find and retrieve post data from blog list depending on url
      */
     function getRecipeData(recipeTitle: string): void {
-      console.log(recipeTitle);
-
       const rawPost = recipePosts.find((obj) => paramCase(obj.title).toLowerCase() === recipeTitle);
       if (rawPost) {
         setRecipe(rawPost);
@@ -39,7 +37,6 @@ const RecipePost = ({ location }: Props): JSX.Element => {
 
     const recipeTitle = paramCase(location.pathname.toLowerCase().replace('recipe', ''));
     getRecipeData(recipeTitle);
-    // eslint-disable-next-line
   }, []);
 
   useEffect(() => {
@@ -71,7 +68,7 @@ const RecipePost = ({ location }: Props): JSX.Element => {
               <div className="split">
                 <div className="ingredients">
                   <h2>Ingredients</h2>
-                  {recipe.ingredients.map((val) => <Ingredient val={val} />)}
+                  {recipe.ingredients.map((val) => <Ingredient key={val} val={val} />)}
                 </div>
                 <div className="time">
                   <div><strong>Prep</strong><br />{timeToText(recipe.prepTime)}</div>
@@ -81,7 +78,7 @@ const RecipePost = ({ location }: Props): JSX.Element => {
               </div>
               <div className="directions">
                 <h2>Directions</h2>
-                {recipe.directions.map((val, i) => <Direction num={i + 1} val={val} size={recipe.directions.length} />)}
+                {recipe.directions.map((val, i) => <Direction key={val} num={i + 1} val={val} size={recipe.directions.length} />)}
               </div>
             </div>
           </div>
@@ -96,6 +93,18 @@ const RecipePost = ({ location }: Props): JSX.Element => {
   );
 };
 
+/**
+ * Toggles strike through effect on text when clicked
+ */
+const toggleStrikeThrough = (e: React.MouseEvent<HTMLParagraphElement, MouseEvent>): void => {
+  const target = e.target as HTMLParagraphElement;
+  if (target.style.textDecoration === 'line-through') {
+    target.style.textDecoration = 'none';
+  } else {
+    target.style.textDecoration = 'line-through';
+  }
+};
+
 type IngredientProps = {
     val: string;
 }
@@ -104,7 +113,7 @@ type IngredientProps = {
  * Single ingredient component
  */
 const Ingredient = ({ val }: IngredientProps): JSX.Element => (
-  <div className="item"><div className="dot" /><p>{val}</p></div>
+  <div className="item"><div className="dot" /><p onClick={toggleStrikeThrough}>{val}</p></div>
 );
 
 type DirectionProps = {
@@ -121,7 +130,7 @@ const Direction = ({ num, val, size }: DirectionProps): JSX.Element => (
     <p className={`num ${size >= 10 ? 'long' : ''}`}>{num}</p>
     <div className="text-container">
       <div className="separator" />
-      <p className="text">{val}</p>
+      <p className="text" onClick={toggleStrikeThrough}>{val}</p>
     </div>
   </div>
 );
