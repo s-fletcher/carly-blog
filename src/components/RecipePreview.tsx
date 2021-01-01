@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom';
 import { RecipePostProps } from '../recipe-posts';
 import jumpToTop from '../lib/jumpToTop';
 import '../styles/recipe-preview.scss';
+import timeToText from '../lib/timeToText';
 
 /**
  * Blog preview shown in the blog gallery
@@ -17,7 +18,7 @@ const RecipePreview = ({
 
   return (
     <div className="recipe-preview">
-      <Link to={`/${paramCase(title)}`}>
+      <Link to={`/recipe/${paramCase(title)}`}>
         <div className="image-border">
           <div className="no-overflow">
             <div
@@ -29,10 +30,15 @@ const RecipePreview = ({
             />
           </div>
         </div>
-        <h2>{title}</h2>
-        <p>{preview}</p>
-        <p>{prepTime}</p>
-        <p>{cookTime}</p>
+        <div className="info">
+          <div className="title-preview">
+            <h2>{title}</h2>
+            <p>{preview}</p>
+          </div>
+          <div className="time">
+            <p><strong>Total time</strong> {timeToText(prepTime + cookTime)}</p>
+          </div>
+        </div>
       </Link>
     </div>
   );

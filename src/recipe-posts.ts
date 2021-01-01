@@ -64,8 +64,9 @@ export type RecipePostProps = {
 const recipePosts: RecipePostProps[] = [
   {
     title:           'Chicken Fettuccine Alfredo',
-    imageUrl:        './images/welcomeheader.png',
+    imageUrl:        '/images/welcomeheader.png',
     preview:         'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. A pellentesque sit amet porttitor eget dolor. Vel pretium lectus quam id leo. Nunc aliquet bibendum enim facilisis gravida neque convallis. Faucibus purus in massa tempor nec feugiat.',
+    description:     '',
     previewImagePos: 'center 10%',
     headerImagePos:  'center 10%',
     ingredients:     [

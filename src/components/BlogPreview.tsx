@@ -15,7 +15,7 @@ const BlogPreview = ({ title, imageUrl, preview, previewImagePos }: BlogPostProp
 
   return (
     <div className="blog-preview">
-      <Link to={`/${paramCase(title)}`}>
+      <Link to={`/post/${paramCase(title)}`}>
         <div className="image-border">
           <div className="no-overflow">
             <div

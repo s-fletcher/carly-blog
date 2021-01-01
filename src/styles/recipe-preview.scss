@@ -1,34 +1,51 @@
 @import './constants.scss';
 
 .recipe-preview {
-  .image-border {
-    .no-overflow {
-      overflow: hidden;
+  a {
+    color: inherit;
+    display: flex;
+    text-decoration: none;
 
-      .image-container {
-        background-position: center center;
-        background-size: cover;
-        height: 30vw;
-        max-height: 250px;
-        min-height: 200px;
+    .image-border {
+      margin-right: 25px;
+      min-width: 45%;
+
+      .no-overflow {
         overflow: hidden;
-        transition: transform 500ms;
+
+        .image-container {
+          background-position: center center;
+          background-size: cover;
+          height: 30vw;
+          max-height: 250px;
+          min-height: 200px;
+          overflow: hidden;
+          transition: transform 500ms;
+        }
+      }
+    }
+
+    .info {
+      display: flex;
+      flex-flow: column;
+      justify-content: space-between;
+
+      .title-preview {
+        h2 {
+          margin: 10px 0;
+        }
+    
+        p {
+          color: $gray;
+          font-style: normal;
+        }
+      }
+
+      .time {
+        display: flex;
       }
     }
   }
-
-  h2 {
-    margin: 10px 0;
-  }
-    
-  p {
-    color: $gray;
-  }
-
-  a {
-    color: inherit;
-    text-decoration: none;
-  }  
 }
 
 .blog-preview:hover {

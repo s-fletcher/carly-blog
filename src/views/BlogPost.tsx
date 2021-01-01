@@ -51,7 +51,7 @@ const BlogPost = ({ location }: Props): JSX.Element => {
       }
     }
 
-    const postTitle = paramCase(location.pathname.toLowerCase());
+    const postTitle = paramCase(location.pathname.toLowerCase().replace('post', ''));
     getPostDataUsingUrl(postTitle);
     // eslint-disable-next-line
   }, []);

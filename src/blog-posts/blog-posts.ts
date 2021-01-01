@@ -53,7 +53,7 @@ const blogPosts: BlogPostProps[] = [
   {
     title:           'Welcome to my Blog!',
     date:            'December 13, 2020',
-    imageUrl:        './images/welcomeheader.png',
+    imageUrl:        '/images/welcomeheader.png',
     contentUrl:      require('./welcome.md'),
     preview:         'Learn about my life, my passions, and my goals. I am so happy you are here, feel free to stay a while!',
     previewImagePos: 'center 10%',
@@ -62,7 +62,7 @@ const blogPosts: BlogPostProps[] = [
   {
     title:           'The Dreaded Icebreaker Post',
     date:            'December 16, 2020',
-    imageUrl:        './images/icebreakerheader.png',
+    imageUrl:        '/images/icebreakerheader.png',
     contentUrl:      require('./the-dreaded-icebreaker.md'),
     preview:         'We all know the panic of coming up with cool icebreaker facts to share with others, but I am flipping the script. Join me in going over some boring and uninteresting facts about myself as our little icebreaker introduction. ',
     previewImagePos: 'center 10%',
@@ -71,7 +71,7 @@ const blogPosts: BlogPostProps[] = [
   {
     title:           '2020 - Top Songs of the Year',
     date:            'December 30, 2020',
-    imageUrl:        './images/spotifyheader.png',
+    imageUrl:        '/images/spotifyheader.png',
     contentUrl:      require('./2020-Top-Songs-of-the-Year.md'),
     preview:         'What was your favorite song this year? A daunting question that I have my 3 friends answer, followed by my top 8 songs of 2020. Give them a listen, you might find your new favorite song!  ',
     previewImagePos: 'center 10%',
