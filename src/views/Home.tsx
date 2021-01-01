@@ -17,7 +17,7 @@ const Home: React.FC = () => (
           {/* eslint-disable-next-line max-len */}
           <p>A joyful college student who loves to experience everything the world has to offer.</p>
           <br />
-          <p>You can learn more about me <Link to="/welcome-to-my-blog">here</Link>.</p>
+          <p>You can learn more about me <Link to="/post/welcome-to-my-blog">here</Link>.</p>
         </div>
       </div>
     </div>
