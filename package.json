@@ -8,6 +8,7 @@
     "@types/react-dom": "^16.9.8",
     "@types/react-router-dom": "^5.1.6",
     "change-case": "^4.1.2",
+    "eslint": "^7.16.0",
     "marked": "^1.2.6",
     "medium-zoom": "^1.0.6",
     "node-sass": "^4.14.1",
@@ -19,7 +20,6 @@
   },
   "devDependencies": {
     "@types/node": "^12.19.9",
-    "eslint": "^7.16.0",
     "eslint-config-airbnb": "^18.2.0",
     "eslint-plugin-import": "^2.22.0",
     "eslint-plugin-jsx-a11y": "^6.3.1",

@@ -63,24 +63,28 @@ export type RecipePostProps = {
  */
 const recipePosts: RecipePostProps[] = [
   {
-    title:           'Welcome to my Recipe Page!',
+    title:           'Homemade Tomato Sauce',
     imageUrl:        '/images/recipe3.png',
-    preview:         'Learn more about my passion for cooking and what to expect when viewing this page. ',
-    description:     'If you read my introduction post, you know that I love to cook and bake! My mom is an excellent home baker. She has a sweet tooth, and it shows when she makes the most delicious cookies and cake bars. My dad worked in a restaurant for a while, so he knows all the in-n-outs of the kitchen. He is really good at cooking, so good that he doesn’t even use a recipe! I remember cooking with him a lot when I was younger. At times, I was a great helper, but I would have to argue most of the time I was just the taste tester.  My idea for this part of my page is to share some of my favorite recipes with step-by-step instructions. I get a lot of inspiration from Pinterest or from my dad, but I always end up tweaking them and making them my own.Being a college student- many of my recipes use minimal ingredients and minimal kitchen equipment. However, I do like to splurge on some recipes, so look out for my previews on each post for quick overviews on the recipes! Below is what my recipe layout will look like... I hope you enjoy my recipes and eat up!',
+    preview:         'Pasta sauce so good and easy, you’ll never go back to store bought!',
+    description:     '',
     previewImagePos: 'center 10%',
     headerImagePos:  'center 10%',
     ingredients:     [
-      'ingredient 1',
-      'ingredient 2',
-      'ingredient 3...',
+      '1/2 white onion, diced',
+      '14oz can fire roasted diced tomatoes',
+      '8oz can tomato sauce',
+      '4oz chicken broth',
+      'Measure with your heart: italian seasoning',
     ],
     directions: [
-      'step 1',
-      'step 2',
-      'step 3...',
+      'Dice up the onion into small pieces and sauté it in a saucepan until translucent.',
+      'In a food processor, grind up the diced tomatoes then put them in the saucepan with the onion.',
+      'Add in the can of tomato sauce and chicken broth.',
+      'Add in italian seasoning and bring to a simmer.',
+      'Serve over pasta, chicken parmigiana, or use in lasagna.',
     ],
-    prepTime: 10,
-    cookTime: 60,
+    prepTime: 5,
+    cookTime: 10,
   },
 ];
 
