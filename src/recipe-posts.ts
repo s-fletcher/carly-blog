@@ -65,7 +65,7 @@ const recipePosts: RecipePostProps[] = [
   {
     title:           'Welcome to my recipe page!',
     imageUrl:        '/images/welcomeheader.png',
-    preview:         '. Learn more about my passion for cooking and what to expect when viewing this page. ',
+    preview:         'Learn more about my passion for cooking and what to expect when viewing this page. ',
     description:     '',
     previewImagePos: 'center 10%',
     headerImagePos:  'center 10%',
