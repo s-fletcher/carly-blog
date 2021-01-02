@@ -64,11 +64,11 @@ export type RecipePostProps = {
 const recipePosts: RecipePostProps[] = [
   {
     title:           'Homemade Tomato Sauce',
-    imageUrl:        '/images/recipe3.png',
+    imageUrl:        '/images/tomato1.png',
     preview:         'Pasta sauce so good and easy, you’ll never go back to store bought!',
     description:     '',
-    previewImagePos: 'center 10%',
-    headerImagePos:  'center 10%',
+    previewImagePos: 'center center',
+    headerImagePos:  'center center',
     ingredients:     [
       '1/2 white onion, diced',
       '14oz can fire roasted diced tomatoes',
