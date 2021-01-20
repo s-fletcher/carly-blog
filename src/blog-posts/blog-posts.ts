@@ -77,6 +77,15 @@ const blogPosts: BlogPostProps[] = [
     previewImagePos: 'center 10%',
     headerImagePos:  'center 10%',
   },
+    {
+    title:           'Part 1: How to Find Your People in College',
+    date:            'January 20, 2021',
+    imageUrl:        '/images/comingsoon.png',
+    contentUrl:      require('./Part-1-HTFYP.md'),
+    preview:         'Coming soon... ',
+    previewImagePos: 'center 10%',
+    headerImagePos:  'center 10%',
+  },
 ];
 
 export default blogPosts;
