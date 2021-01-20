@@ -1,1 +1,1 @@
-Coming soon... How to Find Your People In College
+Coming Soon... How to Find Your People in College
