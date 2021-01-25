@@ -17,6 +17,11 @@ When I first got to college, I wrote down a few words on a sticky note. I wrote 
 
 To create a lasting friendship and find your people you have to have expectations for those people. Your expectations can’t be too high, or you’ll never find your people; however, keep in mind those few things you value that you won't sacrifice. Use that list of 3-to-5 words as a guide for your expectations of your future friendships. 
 
+<div class="image-column">
+  <img src="/images/HT1.png" />
+  <img src="/images/HT9.png" />
+</div>
+
 **2. Be Bold.**
 
 It is hard to make friends if you don’t put in the initiative to talk to someone new! I like to argue that I am shy and the type of girl to never talk to someone new if I didn’t have to. However, one event changed the course of my life, and I don’t look at meeting new people that way anymore. 
@@ -24,6 +29,12 @@ It is hard to make friends if you don’t put in the initiative to talk to someo
 *Warning:* This is my favorite thing that has happened to me in college! I received an email from a Christian sorority about a recruitment night they were hosting where you could go and learn about their sisterhood. I was really interested and wanted to go so bad, but I was too fearful of meeting new people and going to the event alone that I brushed it off and deleted the email. The next day, I walk into my Spanish class and hear a girl that sits at the table next to me talking about how she was going to the recruitment night. I had never talked to this girl before and I got out of my seat, walked over and said “Hi, can I go with you?” I had no idea what overcame me and when those words came out of my mouth I was embarrassed and shocked at myself and what I did. Just the day before, I would have rather ran 5 miles than walk up to someone and start a conversation without being forced to due to a group project or discussion in class. The girl looked at me and said “Of course, here’s my number I’ll meet you there!” That girls name is Abby, and she is now my best friend. I may have never met Abby, and I would 100% not be in a sorority, if I hadn’t been bold and talked to her.
 
 Now, I am less afraid to approach people because I think back on how I met Abby and joined a great organization. I think of how many happy moments and great friendships I could miss out on, by shying away at opportunities to talk to others. I know from personal experience that a huge part of finding your people is being bold. It is scary, but you won't enjoy those chocolate chips if you pick around them and avoid them! 
+
+<div class="image-column">
+  <img src="/images/HT5.png" />
+  <img src="/images/HT7.png" />
+  <img src="/images/HT6.png" />
+</div>
 
 These are two important steps to remember when trying to find friends in college. In my next post, I will finish out the series with three more important reminders about creating lasting and healthy friendships.
 
