@@ -32,8 +32,8 @@ Now, I am less afraid to approach people because I think back on how I met Abby 
 
 <div class="image-column">
   <img src="/images/HT5.png" />
-  <img src="/images/HT7.png" />
   <img src="/images/HT6.png" />
+  <img src="/images/HT7.png" />
 </div>
 
 These are two important steps to remember when trying to find friends in college. In my next post, I will finish out the series with three more important reminders about creating lasting and healthy friendships.
