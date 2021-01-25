@@ -79,10 +79,10 @@ const blogPosts: BlogPostProps[] = [
   },
     {
     title:           'Part 1: How to Find Your People in College',
-    date:            'January 20, 2021',
-    imageUrl:        '/images/comingsoon.png',
+    date:            'January 24, 2021',
+    imageUrl:        '/images/HT8.png',
     contentUrl:      require('./Part-1-HTFYP.md'),
-    preview:         'Coming soon... ',
+    preview:         'In part one of this two part series, learn my two most important reminders when trying to make new friends in college.  ',
     previewImagePos: 'center 10%',
     headerImagePos:  'center 10%',
   },
