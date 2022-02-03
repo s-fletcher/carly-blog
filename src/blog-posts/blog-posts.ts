@@ -95,6 +95,15 @@ const blogPosts: BlogPostProps[] = [
     previewImagePos: 'center 10%',
     headerImagePos:  'center 10%',
   },
+      {
+    title:           '2021 - Top Songs of the Year',
+    date:            'December 30, 2021',
+    imageUrl:        '/images/spotifyheader.png',
+    contentUrl:      require('./2021-Top-Songs-of-the-Year.md'),
+    preview:         'It is time for another addition of Top Songs of the Year! Have you heard these? Or are you about to find your new favorite song!? Give them a listen and learn a little more about me through my music taste.   ',
+    previewImagePos: 'center 10%',
+    headerImagePos:  'center 10%',
+  },
 ];
 
 export default blogPosts;
