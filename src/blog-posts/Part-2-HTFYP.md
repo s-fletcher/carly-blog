@@ -13,7 +13,7 @@ How will you know if you like chocolate chip cookies if you never try them?
 
 Here are some things that I said yes to, and because of that, I created deeper connections.
 
-![alt text](./images/brett-venables.png)
+(./images/brett-venables.png)
 
 
 **2. Find a Common Interest and Get Involved Together.**
