@@ -11,6 +11,11 @@ What is there to be afraid of? Awkwardness. I get it, everybody dreads that awkw
 The beauty of saying yes is that it gives you an opportunity to find a friend, or even realize that this person isn’t the right friend for you. 
 How will you know if you like chocolate chip cookies if you never try them?
 
+Here are some things that I said yes to, and because of that, I created deeper connections.
+
+![alt text](./images/brett-venables.png)
+
+
 **2. Find a Common Interest and Get Involved Together.**
 
 In college, there are so many clubs and organizations to get involved in. When you get plugged in, you get connected to new people. 
