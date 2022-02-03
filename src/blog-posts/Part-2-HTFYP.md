@@ -41,8 +41,21 @@ Don’t worry about knowing everyone on campus and having a connection to every 
 
 I have about 5-7 really close friends that I hang out with every week, and I feel like I could go to them and rant about anything if I needed. These are the people that I would call my "inner circle". I met the majority of these people though my sorority and during my freshman year in Biology lab. These are my go-to people and I will continue to have a close relationship with them for the rest of my life.
 
+<div class="image-column">
+  <img src="/images/
+close2.png" />
+  <img src="/images/close1.png" />
+  <img src="/images/close3.png" />
+</div>
+
 
 Then I have about 20+ friends that I have made on campus through working together in an organization. These friends would be considered by middle circle. I met a majority of these friends from my honor society and through friends of friends. We would hang out occasionally, but not as much as connections in my inner circle. This circle is comprised of people that I know I will keep connected with throughout major life events.
+
+<div class="image-column">
+  <img src="/images/
+middle1.png" />
+  <img src="/middle2.png" />
+</div>
 
 Then I have those 50+ connections that were mainly just college connections- considered my outer circle. These connections also came from campus clubs and organizations, however these connections will probably continue on though social media. It doesn’t mean we aren’t true friends, it just means we never had the opportunity to flourish into something bigger and more meaningful outside of our club relationship. This is one of my favorite groups in college because it is exciting to get to see these friends around campus, say hi, and catch up like no time has passed. While these aren't the friends I am hanging out with every day, I know they still have my back and that we both deeply care about each other!
 
