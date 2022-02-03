@@ -16,6 +16,7 @@ How will you know if you like chocolate chip cookies if you never try them?
 In college, there are so many clubs and organizations to get involved in. When you get plugged in, you get connected to new people. 
 
 Do some research of clubs on your campus and find some that speak to you. This can be anything from lettuce eating club, a dance team, or a welcome committee for freshman. Once you join a club or organization you are guaranteed to find someone who is interested in at least one same thing as you: whether that be a passion for lettuce or dance- it’s something! When you are able to share a common interest in something, it is easier to connect on a deeper level and become good friends with someone.
+
 I have met most of my closest college friends through a Christian sorority and an honor society which was great because I knew that we all shared a common interest and foundation. After joining, I realized that I had friends that I could go out and do things with. Together we: went out and served the community, had prayer groups together, went to church together, hosted events, study nights, and a book club. This was all made possible by getting involved in a club together. These connections formed because we spent time together and we were enjoying what we were doing. 
 
 **3. Reminder of Quality Over Quantity.**
