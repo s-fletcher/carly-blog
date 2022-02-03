@@ -104,6 +104,15 @@ const blogPosts: BlogPostProps[] = [
     previewImagePos: 'center 10%',
     headerImagePos:  'center 10%',
   },
+     {
+    title:           'Getting the Most Out of Senior Photos',
+    date:            'February 3, 2022',
+    imageUrl:        '/images/enter.png',
+    contentUrl:      require('./Getting-the-most-out-of-senior-photos.md'),
+    preview:         'Senior pictures are such a huge milestone and a great way to celebrate an amazing accomplishment. I have a few tips that will help you get the most out of your senior photos!   ',
+    previewImagePos: 'center 10%',
+    headerImagePos:  'center 10%',
+  },
 ];
 
 export default blogPosts;
