@@ -30,6 +30,10 @@ Do some research of clubs on your campus and find some that speak to you. This c
 
 I have met most of my closest college friends through a Christian sorority and an honor society which was great because I knew that we all shared a common interest and foundation. After joining, I realized that I had friends that I could go out and do things with. Together we: went out and served the community, had prayer groups together, went to church together, hosted events, study nights, and a book club. This was all made possible by getting involved in a club together. These connections formed because we spent time together and we were enjoying what we were doing. 
 
+<div class="image-column">
+  <img src="/images/service.png" />
+</div>
+
 **3. Reminder of Quality Over Quantity.**
 
 In college, it can be easy to think that you need to be friends with everyone and be preoccupied worrying that everyone needs to know your name and face. 
