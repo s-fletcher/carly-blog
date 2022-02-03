@@ -1,5 +1,7 @@
 *"In the cookie of life, friends are the chocolate chips."*
 
+Welcome back to the final part of the two-part series on how to find friends in college! In my last post, I talked about the importance of being yourself, honest about what you want from your friends, and bold when trying to find friends. Today, we will finish out this series with my final few pieces of advice when trying to find your people in a new environment, like college.
+
 
 **1. Say Yes!**
 
@@ -18,3 +20,21 @@ I have met most of my closest college friends through a Christian sorority and a
 
 **3. Reminder of Quality Over Quantity.**
 
+In college, it can be easy to think that you need to be friends with everyone and be preoccupied worrying that everyone needs to know your name and face. 
+This was especially difficult for me because I grew up in a city and high school where I knew everyone in my grade and most of them knew me too. We all weren’t necessarily best friends, but we knew each other’s names and funny stories. If I am being honest, in college that is probably not practical; especially if you are attending a big school. 
+
+Don’t worry about knowing everyone on campus and having a connection to every club or organization, connections will come, and you can and will make them.  It is also very easy to get swept up looking at everyone’s social media feeds where they have 20 best friends who go out every night together. It’s easy to ask the question “Why isn’t that me? Why don’t I have that?” Well, the best thing I can say is, you don’t need that!
+
+***Understand the Differences Between Inner, Middle, and Outer Circles in College***
+
+I have about 5-7 really close friends that I hang out with every week, and I feel like I could go to them and rant about anything if I needed. These are the people that I would call my "inner circle". I met the majority of these people though my sorority and during my freshman year in Biology lab. These are my go-to people and I will continue to have a close relationship with them for the rest of my life.
+
+
+Then I have about 20+ friends that I have made on campus through working together in an organization. These friends would be considered by middle circle. I met a majority of these friends from my honor society and through friends of friends. We would hang out occasionally, but not as much as connections in my inner circle. This circle is comprised of people that I know I will keep connected with throughout major life events.
+
+Then I have those 50+ connections that were mainly just college connections- considered my outer circle. These connections also came from campus clubs and organizations, however these connections will probably continue on though social media. It doesn’t mean we aren’t true friends, it just means we never had the opportunity to flourish into something bigger and more meaningful outside of our club relationship. This is one of my favorite groups in college because it is exciting to get to see these friends around campus, say hi, and catch up like no time has passed. While these aren't the friends I am hanging out with every day, I know they still have my back and that we both deeply care about each other!
+
+In short, it is okay to have a small circle of friends who you hang out with a majority of the time. I think that it’s normal to have a smaller inner circle! However, it is great to have wider social circles and be able to recognize lots of friendly faces on campus. 
+
+
+As I wrap up this 2-part blog post about how to find your people in college, keep in mind that everyone’s experience looks different! I feel like I really got plugged in my sophomore year of college and then even more in my final semester. I hope that this series has given you peace and guidance when trying to navigate a really difficult part of life. There is no one right answer and everyone forms connections differently. But, how did I form an abundance of these connections? I said yes, found common interests, got involved together, and didn’t stress the quantity but rather focused on the quality of my friendships. 
