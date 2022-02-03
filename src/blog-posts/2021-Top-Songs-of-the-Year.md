@@ -38,6 +38,7 @@ Lastly, there were a few single songs that I really enjoyed this year too. These
   3.	Issues by Baby Keem 
 
 **Revisted Old Favorites**
+
 Last year, I included an honorable mention in my Top Songs of 2020. This year I titled this section “Revisited Old Favorites.” This was a year where I spent a lot of time listening to old throwbacks mixed in with new, fresh songs. These revisited old favorites include:
   1.	Solo by Frank Ocean
   2.	Runaway by Kanye West
