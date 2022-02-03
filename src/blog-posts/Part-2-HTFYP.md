@@ -16,7 +16,7 @@ Here are some things that I said yes to, and because of that, I created deeper c
 <div class="image-column">
   <img src="/images/
 1D215335-8386-4511-99A2-A28F5318041B2020-11-13_19-12-13_000 copy.png" />
-  <img src="/images/brent-venables.png" />
+  <img src="/images/brett-venables.png" />
   <img src="/images/gym.png" />
 </div>
 
