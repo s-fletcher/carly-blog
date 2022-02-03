@@ -20,7 +20,7 @@ Here are some things that I said yes to, and because of that, I created deeper c
   <img src="/images/gym.png" />
 </div>
 
-
+Giving blood, going to an OU press conference for the new head coach, and hitting the gym!
 
 **2. Find a Common Interest and Get Involved Together.**
 
