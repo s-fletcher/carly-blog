@@ -11,3 +11,22 @@ Without further ado, here is a list of tips for getting the most out of your sen
 **Photographer**
 
 ... 
+
+**Outfits**
+
+
+*Accessories*
+
+*Regalia*
+
+*Props*
+
+
+**Bring A Friend or Family Member**
+
+
+**Have Ideas In Mind**
+
+*What you like*
+
+*What you don't like/ Insecurities*
