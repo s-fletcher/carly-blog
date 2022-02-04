@@ -76,6 +76,7 @@ Now, I know that many might think that accessories are not that important- but l
 <div class="image-column">
   <img src="/images/no-gown-details.png" />
   <img src="/images/jewlery-change.png" />
+   <img src="/images/jewelry.png" />
 </div>
 
 
@@ -86,10 +87,9 @@ Graduation regalia was a must for me.  I had lots of graduation regalia, and it 
 I had lots of pictures in my full regalia- cap, gown, stole, hood, and cords. However, I don’t like how I look in hats, so I made sure to only take a few in my cap. I was also worried about how the gown would make my figure look- I made sure to take a few without the gown and just with the cords and stole. Lastly, I took some with just my stole and hood. In short, have variety!! 
 
 <div class="image-column">
+  <img src="/images/hat.png" />
   <img src="/images/senior-gown.png" />
-  <img src="/images/fill.png" />
-  <img src="/images/fill.png" />
-  <img src="/images/fill.png" />
+  <img src="/images/plain-regalia.png" />
 </div>
 
 
@@ -120,7 +120,7 @@ Make sure to get photos that showcase your personality. This could mean laughing
 
 <div class="image-column">
   <img src="/images/personality-one.png" />
-  <img src="/images/personality-horns-down.png" />
+  <img src="/images/horns-down2.png" />
 </div>
 
 
@@ -139,4 +139,8 @@ As I wrap up this blog post, I hope it helped you get the most out of your senio
 
 Congratulations on such a huge accomplishment! I hope you love your photos and that my tips have helped!
 
-
+<div class="image-column">
+  <img src="/images/white-greenery.png" />
+  <img src="/images/alumni2.png" />
+  <img src="/images/red-dress1.png" />
+</div>
