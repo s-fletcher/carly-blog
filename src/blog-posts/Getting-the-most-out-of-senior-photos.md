@@ -128,7 +128,7 @@ Make sure to get photos that showcase your personality. This could mean laughing
 
 My last tip is to bring a family member or friend with you. Especially if you have outfit changes and graduation regalia, you need someone to help with all of it. I was lucky enough to bring my parents, and my mom brought a wagon. A wagon is a must-have!!! In the wagon we had all my outfits, regalia, jewelry, and essentials (such as mascara, oil blotting sheets, and wipes for the champagne).
 
-If you are lucky enough to drag a friend or family members- have them wear something nice! For example, my parents wore jeans and OU t-shirts. When I changed into my "OU Alumni" shirt, we all had the opportunity to take a few photos together in front of the football stadium. It was a great way to commemorate my experiences with them at college football games and to thank them for helping me get through college!
+If you are lucky enough to drag along a friend or a few family members- have them wear something nice! For example, my parents wore jeans and OU t-shirts. When I changed into my "OU Alumni" shirt, we all had the opportunity to take a few photos together in front of the football stadium. It was a great way to commemorate my experiences with them at college football games and to thank them for helping me get through college!
 
 <div class="image-column">
   <img src="/images/family-no-props.png" />
