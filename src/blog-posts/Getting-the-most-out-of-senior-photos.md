@@ -36,6 +36,12 @@ Lastly, and most importantly, communicate these with your photographer! It is be
 
 However, do not be so wrapped up in your vision that you don't allow your photographer to give you suggestions! Some of my favorite photos are ones that Carsyn prompted me to do. For example, she had me play with my hair to shape my arms in a better way, and she had me cross my legs when standing to look thinner. 
 
+<div class="image-column">
+  <img src="/images/red-dress.png" />
+  <img src="/images/outfit-change-personality.png" />
+</div>
+
+
 Carsyn listened to my worries and came prepared with suggestions to combat these. Find a photographer willing to do the same for you. Create that vision and communicate it clearly- but be open to suggestions.
 
 Now on to everyone's favorite part- Outfits!
@@ -54,10 +60,23 @@ I had a fun time picking out outfits, and I just knew what I wanted. I had 4 maj
 3. My third outfit was my favorite. It was simple jeans and a t-shirt in front of the football stadium. My t-shirt wasn't just any old t-shirt though, it said "OU Alumni" on it! Some girls choose to do jerseys or game day outfits- but I was never that type of girl and felt this fit my personality perfectly.
 4. My last outfit was my school color- crimson. This was my celebratory outfit that I wore when popping champagne! I think everyone should have a dress in their school color- it is such a great way to show school spirit without having to wear a logo or the name of your University.
 
+<div class="image-column">
+  <img src="/images/senior-no-gown.png" />
+  <img src="/images/close-up.png" />
+  <img src="/images/alumni.png" />
+  <img src="/images/champs2.png" />
+</div>
+
+
 
 *Accessories*
 
 Now, I know that many might think that accessories are not that important- but let me tell you- I think that they made my pictures! I loved that I changed shoes and jewelry for every outfit. It really allowed me to show my personality and pick shoes and jewelry pieces that are important to me. I got to wear heels I got for my 21st birthday, my grandmother's old gold necklace, and my special 10 Commandments bracelet. These pieces wouldn't go with every outfit I had, so accessory changes were imperative. If you are worried about time, bag each accessory up together based on the outfit, and it takes 1-minute max!
+
+<div class="image-column">
+  <img src="/images/no-gown-details.png" />
+  <img src="/images/jewlery-change.png" />
+</div>
 
 
 *Regalia*
@@ -66,12 +85,32 @@ Graduation regalia was a must for me.  I had lots of graduation regalia, and it 
 
 I had lots of pictures in my full regalia- cap, gown, stole, hood, and cords. However, I don’t like how I look in hats, so I made sure to only take a few in my cap. I was also worried about how the gown would make my figure look- I made sure to take a few without the gown and just with the cords and stole. Lastly, I took some with just my stole and hood. In short, have variety!! 
 
+<div class="image-column">
+  <img src="/images/senior-gown.png" />
+  <img src="/images/fill.png" />
+  <img src="/images/fill.png" />
+  <img src="/images/fill.png" />
+</div>
+
+
 Don’t be afraid to tell your photographer you want lots of options. I feel like a majority of a senior photo shoot should be in regalia and showing off all your accomplishments. Lastly, if there is an important building on campus where you worked or where a club was housed- make sure to get a photo there! I was very involved in an honor society, and some of my favorite photos were in front of that building wearing my cord and stole commemorating my experiences with them.
 
+<div class="image-column">
+  <img src="/images/important-place.png" />
+</div>
 
 *Props*
 
 Props! Super fun but don’t let them take over. Flowers, biodegradable confetti, champagne, or powder bombs are great ideas. I personally did only three props, a red powder bomb, pom-pom's, and the classic champagne. I am glad I didn’t waste too much time on props, but I really enjoyed the pictures I got! Champagne (or grape juice in my photos) is a must-have! The pictures were adorable, and it’s a great time to show personality and excitement. However, if you decide to do champagne, make sure you save it for last- you will be sticky!
+
+<div class="image-column">
+  <img src="/images/family.png" />
+  <img src="/images/prop.png" />
+  <img src="/images/ring2.png" />
+  <img src="/images/champs1.png" />
+   <img src="/images/senior-ring.png" />
+</div>
+
 
 Lastly, if you ordered a class ring- this is the prime opportunity to wear it. I love the photos I got that showed my class ring in detail. 
 
@@ -79,11 +118,21 @@ Lastly, if you ordered a class ring- this is the prime opportunity to wear it. I
 
 Make sure to get photos that showcase your personality. This could mean laughing photos, serious photos, and photos with your school hand sign. For me, this meant holding up a "One" loud and proud, and of course, a big horns down!
 
+<div class="image-column">
+  <img src="/images/personality-one.png" />
+  <img src="/images/personality-horns-down.png" />
+</div>
+
+
 **Bring A Friend or Family Member**
 
 My last tip is to bring a family member or friend with you. Especially if you have outfit changes and graduation regalia, you need someone to help with all of it. I was lucky enough to bring my parents, and my mom brought a wagon. A wagon is a must-have!!! In the wagon we had all my outfits, regalia, jewelry, and essentials (such as mascara, oil blotting sheets, and wipes for the champagne).
 
 If you are lucky enough to drag a friend or family members- have them wear something nice! For example, my parents wore jeans and OU t-shirts. When I changed into my "OU Alumni" shirt, we all had the opportunity to take a few photos together in front of the football stadium. It was a great way to commemorate my experiences with them at college football games and to thank them for helping me get through college!
+
+<div class="image-column">
+  <img src="/images/family-no-props.png" />
+</div>
 
 
 As I wrap up this blog post, I hope it helped you get the most out of your senior photos! Find the right photographer, have a vision, choose outfits that speak to you, bring accessories, and have a friend there with you! Graduation photos are for you and your liking. It is a time to celebrate you and your accomplishments- so do what you like, wear what you want, and pose how you like! Again, if you are in the OKC area- feel free to book my photographer Carsyn Craytor (carsyncraytor.com).  I can not recommend her enough.
