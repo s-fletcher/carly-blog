@@ -86,6 +86,33 @@ const blogPosts: BlogPostProps[] = [
     previewImagePos: 'center 10%',
     headerImagePos:  'center 10%',
   },
+    {
+    title:           'Part 2: How to Find Your People in College',
+    date:            'November 17, 2021',
+    imageUrl:        '/images/HT11.png',
+    contentUrl:      require('./Part-2-HTFYP.md'),
+    preview:         'In part two of this two part series, discover three more important tips to aid in the process of making new friends in college.  ',
+    previewImagePos: 'center 10%',
+    headerImagePos:  'center 10%',
+  },
+      {
+    title:           '2021 - Top Songs of the Year',
+    date:            'December 30, 2021',
+    imageUrl:        '/images/top-2021.png',
+    contentUrl:      require('./2021-Top-Songs-of-the-Year.md'),
+    preview:         'It is time for another addition of Top Songs of the Year! Have you heard these? Or are you about to find your new favorite song!? Give them a listen and learn a little more about me through my music taste.   ',
+    previewImagePos: 'center 10%',
+    headerImagePos:  'center 10%',
+  },
+     {
+    title:           'Getting the Most Out of Senior Photos',
+    date:            'February 3, 2022',
+    imageUrl:        '/images/header-senior.png',
+    contentUrl:      require('./Getting-the-most-out-of-senior-photos.md'),
+    preview:         'Senior pictures are such a huge milestone and a great way to celebrate an amazing accomplishment. I have a few tips that will help you get the most out of your senior photos!   ',
+    previewImagePos: 'center 10%',
+    headerImagePos:  'center 10%',
+  },
 ];
 
 export default blogPosts;
